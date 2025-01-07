@@ -1,0 +1,20 @@
+{
+  "type": "IMG",
+  "avatar": [
+    {
+      "type": "TO",
+      "pos": [46, 46, 153, 153],
+      "avatarOnTop": false
+    }
+  ],
+  "text": [
+    {
+      "text": "关注了你",
+      "pos": [219, 196],
+      "color": "#5e5e5e",
+      "size": 31,
+      "strokeSize": 1
+    }
+  ],
+  "alias": ["关注"]
+}
