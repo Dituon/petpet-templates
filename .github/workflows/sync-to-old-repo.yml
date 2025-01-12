@@ -15,7 +15,7 @@ jobs:
 
       - name: Clone old repository
         run: |
-          git clone https://x-access-token:${{ secrets.OLD_REPO_TOKEN }}@github.com/Dituon/petpet.git old-repo
+          git clone --branch main https://x-access-token:${{ secrets.OLD_REPO_TOKEN }}@github.com/Dituon/petpet.git old-repo
 
       - name: Sync templates to old repository
         run: |
@@ -34,11 +34,12 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to sync"
           else
-            # Extract the latest commit information
             read -r COMMIT_HASH AUTHOR <<< $(head -n 1 ../commit-history.log)
             AUTHOR_NAME=$(echo "$AUTHOR" | sed 's/ <.*//')
             AUTHOR_EMAIL=$(echo "$AUTHOR" | sed 's/.*<\(.*\)>/\1/')
-            git commit --author="$AUTHOR_NAME <$AUTHOR_EMAIL>" -m "Sync templates from petpet-templates repository ($COMMIT_HASH)"
+
+            git commit --author="$AUTHOR_NAME <$AUTHOR_EMAIL>" \
+                       -m "Sync templates from petpet-templates repository ($COMMIT_HASH)"
             git push origin main
           fi
         env:
