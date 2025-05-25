@@ -22,8 +22,6 @@ jobs:
       with:
         node-version: '22'
 
-    - run: npm install
-
     - name: Run build index script
       run: cd tools/index-builder; npm i; npm start
 
