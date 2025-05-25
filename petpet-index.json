@@ -1,0 +1,3107 @@
+{
+  "templatesPath": "./templates",
+  "templates": {
+    "acclaim": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "喝彩",
+          "欢呼"
+        ]
+      },
+      "resource": {
+        "data.json": "7bd259902d4707bed1f0c41a065bca2d",
+        "0.png": "13494c9b8b8139bc430d754784fac99f",
+        "1.png": "5d5357aa8590816fb8a67ddeb746c1b3",
+        "10.png": "2d24f9a20dec3d408aa7ab5d8c5b21e8",
+        "11.png": "bab62466d11e66d77e0d9749cc4f1f5e",
+        "12.png": "9a79de52349368571466ddc2a25ecf8b",
+        "13.png": "471b3f22cf3dd23acb28ab09bcfaa5a5",
+        "14.png": "ff6995d4e1062444dcd3ce5b8b7d9c91",
+        "16.png": "93ecd3bacd9d884f44a12e4792ad620e",
+        "17.png": "4db4f717235a13cdd94a2354e59aa48f",
+        "15.png": "56539ddda3c3aab513558816b2ac6bf6",
+        "18.png": "838dd5bcd7a0c4c3f6fe632effee5172",
+        "19.png": "c47b64296dfab2c9e5361e1144bd771a",
+        "2.png": "ecb1a257c8d9545190e3601a2b4fc202",
+        "20.png": "63eaac9affcc59d95d7a3c771c8e3bb4",
+        "21.png": "8555f06cad1e30b133eecb903fe3fad7",
+        "22.png": "87d78b1a5071947c9a08d212886875e1",
+        "3.png": "8a368ea10c2bb782b80fbc56219839d9",
+        "4.png": "654d03fdfc1dd9b584ca29eac62e10f7",
+        "5.png": "f6463c410f21fc04cc44af8ae2ed3159",
+        "6.png": "194297c82200fb1746fa8c4d43dba4d9",
+        "7.png": "03edc2113f4adc695f280e12c04c6b6d",
+        "8.png": "82f65fc2fe92d5d875bbb07aa9b7cdb1",
+        "9.png": "b10ee127cc783d12992b3886e1fe267d"
+      },
+      "size": 2496114
+    },
+    "addiction": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "上瘾",
+          "毒瘾发作"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "0.png": "dc201145111b74eca4d09429afe0dfb9",
+        "data.json": "6ee7972fedb4f8a1cc13108094765b9a"
+      },
+      "size": 31996
+    },
+    "always": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "要我一直"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "0.png": "e8896dfa2a4ffba87791aaccc194faf0",
+        "data.json": "78867d90d27a883ef4ddf4eafa2036f1"
+      },
+      "size": 6736
+    },
+    "anyasuki": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "阿尼亚",
+          "喜欢"
+        ]
+      },
+      "resource": {
+        "data.json": "160afffb9de4ac62397f74370e132e28",
+        "0.png": "9a46dd33cc7a511a8368e768c6d4abb0"
+      },
+      "size": 169315,
+      "dependentFonts": [
+        "MiSans-Bold.ttf"
+      ]
+    },
+    "applaud": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "鼓掌"
+        ]
+      },
+      "resource": {
+        "0.png": "0e5f561f3abc093f8089ed5e3b4d4e51",
+        "1.png": "948ee568b13be8427c0dd8d6de5740c3",
+        "3.png": "46579d1329fa40685a264720bdb97593",
+        "2.png": "ab191735e9c523517deca3e4c444bd81",
+        "4.png": "26b72b155b645d5e8ed4f96948c48ba7",
+        "data.json": "cb5926755dc90d750559e6fda70d299e"
+      },
+      "size": 130598
+    },
+    "ask": {
+      "type": "template",
+      "metadata": {
+        "alias": [
+          "问问"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "d4517a7ae10b6bb31ebd10fb835c4d17",
+        "message.png": "d2554f7e9365fb7d84b9fe1338130984",
+        "template.json": "6264f097748479af1b06e60534dbfe21",
+        "0.png": "636700dfec09cfb605db4799ba66f4f7"
+      },
+      "size": 72606
+    },
+    "bear": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "旋转丢",
+          "扔"
+        ]
+      },
+      "resource": {
+        "1.png": "92e50cf917ced8edaade4069f5f4a620",
+        "0.png": "73d0b58d068e0505bb564b14139e2ee1",
+        "10.png": "592ffb61ad0e85047c510fa77771beff",
+        "11.png": "de9000494463eeb27c376781e82775ca",
+        "12.png": "8248fb0d3ac8334df4ded6d9d3e6aaf9",
+        "13.png": "5776dafc8e87607ec0d28fc9259e1222",
+        "14.png": "c5c9c08044a1927117eee283fbd2fc2e",
+        "15.png": "7967862860052528595cd07ae789f449",
+        "16.png": "fe3cf96ea8caa0b092ea33c01f5ed44e",
+        "17.png": "37f08d3b5d5c3266ca62319fc455bc5d",
+        "18.png": "8da44c3c0bc082ff5e16ff46d18387c9",
+        "19.png": "ace37dac2c5d10a8fe35a5e864a23d50",
+        "2.png": "38f0bac99de556f1754bcc528114bd71",
+        "3.png": "2d556518c2a5c770c36b6a8eb8f60348",
+        "4.png": "f5447a9b571b62107c4b7a5d8766b767",
+        "5.png": "a219dd6556df7ed6f91fd0643958e502",
+        "6.png": "499c215cdb45be4be3c8a46d9d696449",
+        "7.png": "bca4e8173d537edf9a0cbe4645b9bde3",
+        "8.png": "38eb7fb414fe5f5cc55272c1a2ad4bad",
+        "9.png": "aab7212d4566dd3c37f323f0f13edb94",
+        "data.json": "99a3c358b130f313257b88cb6a8c63aa"
+      },
+      "size": 203740
+    },
+    "bible": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "圣经",
+          "典中典"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "025b87f5238c1742ed885f3692f38111"
+      },
+      "size": 648,
+      "dependentFonts": [
+        "MiSans-Bold.ttf"
+      ]
+    },
+    "bite": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "啃",
+          "咬"
+        ]
+      },
+      "resource": {
+        "0.png": "aa22309957009ee9987ad1b182255c13",
+        "1.png": "b54393a89bf9ff6fe708dcbca0c6db59",
+        "10.png": "5bbee1d870f80ac2085001864d094b81",
+        "11.png": "8e3b2717d9a9e07f2557e35915ebeb1b",
+        "12.png": "97ce4f50713ac50ff952981753338b8c",
+        "13.png": "13c83e0dc1b10493c13e9b9f2e9e629d",
+        "14.png": "5bbee1d870f80ac2085001864d094b81",
+        "15.png": "8e3b2717d9a9e07f2557e35915ebeb1b",
+        "2.png": "40da519708db964eb9ba1a73d9d8bc84",
+        "3.png": "5fb6be0829fc2fed027bd0e9052584a1",
+        "4.png": "469d306d1a1cc4446a50239c2613840b",
+        "5.png": "2926c88901c9db7c33f35ba4b4870174",
+        "6.png": "b495ed928a20c7e1ec366d227ed13987",
+        "7.png": "a1508aed7869c21f3f9600887a5815c9",
+        "8.png": "97ce4f50713ac50ff952981753338b8c",
+        "9.png": "13c83e0dc1b10493c13e9b9f2e9e629d",
+        "data.json": "008e99ee53d0d1b5690ef69b9e3a028a"
+      },
+      "size": 613932
+    },
+    "bocchi": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "波奇"
+        ]
+      },
+      "resource": {
+        "13.png": "9c0eae4dd03c522eb9c6c23f8902f85e",
+        "15.png": "c7f8d515c9dc440df7bcafa20f311978",
+        "16.png": "d63505c2d5ed0b4250ca46aaa475cd45",
+        "17.png": "46a9cc799d9c3845b4ae12a47ba0577d",
+        "19.png": "f70847523f89a57dd4c9ac287a1ee1f6",
+        "20.png": "4a85a48ff1c7d6743205b26cd44c8bb2",
+        "21.png": "4a85a48ff1c7d6743205b26cd44c8bb2",
+        "22.png": "4a85a48ff1c7d6743205b26cd44c8bb2",
+        "data.json": "1347d22af0d86bf28c6fdaaab44d12b1",
+        "0.png": "7ce07a776f093d149dc496ad93e48212",
+        "1.png": "7ce07a776f093d149dc496ad93e48212",
+        "10.png": "625cfca64613485424ec01b31673df4f",
+        "11.png": "da3ca205e8325fa90609bdae961b9265",
+        "12.png": "3ad676d4c984e2c6c9be150fcd4c6503",
+        "14.png": "e270250a1d05755f34067f887ef9cf8d",
+        "18.png": "13777c8809375a7c14c22f9e29399c0f",
+        "2.png": "7ce07a776f093d149dc496ad93e48212",
+        "3.png": "4b228ab670bff9eb993838bda1cfb4b9",
+        "4.png": "258d9e428339014660bbf646cd7a4131",
+        "5.png": "0ac07c666791e8577843a4f594bcddcd",
+        "7.png": "913b47a1b1fc230728ba6c341735d310",
+        "6.png": "5d9f9658f30034afcf8569886a10386b",
+        "8.png": "58fab9c9bbe32a3c496cfeb2a6082e04",
+        "9.png": "7238b22be1faf7ff74e83c7646580531"
+      },
+      "size": 1683043
+    },
+    "brain": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "大脑升级",
+          "妈妈生的"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "0.png": "7b5b1a82d7d15962ba15fb0bcb9e5da6",
+        "10.png": "754caed411c541b7dc58c511a65f67dc",
+        "12.png": "d434b6f8e3ef22f27482daade3963120",
+        "13.png": "6d3121d155236524c006b4709aa29be8",
+        "14.png": "42e92117ca4cbae7225cfd11cf7ed7f3",
+        "15.png": "01f29e96a607e79a7fea880db8263989",
+        "16.png": "10c7b8b930c1181f2e88ba0385e54c5f",
+        "17.png": "af8abed3254918a0a71e041379cb5fb8",
+        "18.png": "611b05c1dbdcd9fd298dd52682bf4251",
+        "19.png": "186007ac06bb1fa6a840f83f90fb2930",
+        "20.png": "80d4fcd3055da97f72704beff8695470",
+        "21.png": "1b7ca72c6797c16f187b4c01bfa75e0a",
+        "7.png": "fb583751ca0a48778d1e8833da0b77af",
+        "8.png": "296747941bfb882aceb3b38ab554088f",
+        "data.json": "b55bc7e551657a0e1c72650d89857866",
+        "9.png": "77bf5832d223c630eaf04526c13a1591",
+        "1.png": "bf5543f6af31e081cd8c3e43d26d8857",
+        "11.png": "3ac3eddec267a2ec8623d2752b4ed59f",
+        "2.png": "544bd08d1f1c8cd81f10349e5fc86218",
+        "23.png": "307ffe97a401d033296fbcfe9779d59b",
+        "24.png": "03f6fa10baa93e2cbb4f2df16102fecb",
+        "25.png": "2142e252e5498b43ff41562ebc37f296",
+        "28.png": "52b12e40531fb2acb005ea70692f7d71",
+        "29.png": "9b09c453ca1507ee5e73aa2a6f151f96",
+        "3.png": "3723108fb0d5309f142cc0cbcceb7460",
+        "30.png": "c5a1d6c8f902797e88ad6d0a26976648",
+        "31.png": "7cfb200534c428e5cd5303cd647c6a23",
+        "4.png": "e2a335b3d7f6587149ae3e297b03b814",
+        "5.png": "59fa1c11c2c16adeea6b149e729c95b0",
+        "6.png": "15aad6bf5695b5a7ee91da839b0961fa",
+        "22.png": "65a5c82b7e4f5c9a315554a549c4e2d7",
+        "26.png": "51d8f22d65308105306ff809e0458160",
+        "27.png": "ebdee3f16b79e27ba3c7402c0342cb43"
+      },
+      "size": 2657319
+    },
+    "breakdown": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "惊吓",
+          "击穿"
+        ]
+      },
+      "resource": {
+        "0.png": "f6494d8793efaac5dbc7d1d7b13f4775",
+        "10.png": "d0a9b36fef0710f4e6f799309a02e175",
+        "11.png": "f3eec4ecbd7d2e9b157c03409b87e196",
+        "1.png": "87ee7c887181c23cf49259c153e502c5",
+        "12.png": "73bed54512df3c2744e7bebbfc996605",
+        "13.png": "f1285419a554c685016a0c5abe40bed1",
+        "14.png": "1b77ed5a69d2c35f32b1ea4c79811b3b",
+        "15.png": "bc85628d0c3c8552215fe2cb993c41c0",
+        "16.png": "d3266c3c15639d66d6ba5574d796dbbd",
+        "17.png": "53700a08023e25078fd3c12ebc957ec7",
+        "18.png": "255c3eec878059930a74e2db07a9fdbd",
+        "19.png": "b9e225600359ae80000b128beaba0f1a",
+        "2.png": "b7f6d9fad41321e67055c089d38156ee",
+        "20.png": "32c8190626c5bda4e00d7487873f2b02",
+        "21.png": "dc3510a6e9a528e5a9f784e761b67fb3",
+        "22.png": "106f018ef661ff4a6596c7e2886a2916",
+        "23.png": "62c2724be713c96ca8a683a8284a6964",
+        "24.png": "efeca011d93b80b6e6057119a1f39f54",
+        "25.png": "a0c5e233f4fb5ec329fb95273944bc7a",
+        "26.png": "4740d1d5f7b774a611d63093029a2210",
+        "27.png": "8ab9413dee6c223657a91f835226365b",
+        "28.png": "6711d41565461c29c71ce080a47b230c",
+        "3.png": "67b1e253045b3b61914556ae4037d4f0",
+        "4.png": "e56a7f21fee42d909f4feb6770ff8827",
+        "5.png": "e417ba58fc5572147ea201690418e6d9",
+        "6.png": "40007806b850fc8fe3fd0a59146bd76c",
+        "7.png": "ab27a3c8a8c0bcb85f0f842f63677622",
+        "8.png": "ba715055ff1e4714041cbdf947d38083",
+        "9.png": "428161e3ddf06e69180156ab4c245884",
+        "data.json": "1d477621e54564049c97b881073754c6"
+      },
+      "size": 799785
+    },
+    "breast": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "胸",
+          "凶"
+        ]
+      },
+      "resource": {
+        "data.json": "ea320d74756a65cf88a00d4b60ce332b",
+        "0.png": "f44e62f22d9686a38f64d2d139cf4e37"
+      },
+      "size": 1438938
+    },
+    "buckle": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "泉此方",
+          "扣"
+        ]
+      },
+      "resource": {
+        "data.json": "1e1ab7fa3d87e54f50f953d07360dd58",
+        "0.png": "e08a7942922fd74937504f1092a493e0"
+      },
+      "size": 382884
+    },
+    "bulge": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "膨胀",
+          "鱼眼",
+          "透镜"
+        ]
+      },
+      "resource": {
+        "data.json": "effa217b0c6616e7c950f20e25bc0a52"
+      },
+      "size": 356
+    },
+    "capoo_rub": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "咖波蹭",
+          "蹭"
+        ]
+      },
+      "resource": {
+        "0.png": "9fb3a6ba84f40ffceddeba97a024a5fc",
+        "1.png": "0964045b3a6c7cb4cf7f362d341faf75",
+        "2.png": "7eb92f4e2fd5cb69fe2bdf2ddff6376d",
+        "3.png": "e2cd9bf8a3d897d2d09a9a2507b42e6c",
+        "data.json": "baf518b835aabf7ef5c44e3b4e132839"
+      },
+      "size": 46973
+    },
+    "carte": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "佩可莉姆",
+          "菜单",
+          "单页"
+        ]
+      },
+      "resource": {
+        "0.png": "721a97f712e1e5497a393c936e6f790b",
+        "1.png": "1e4c113016c1dbf92e1b8c1e7e3b9bc1",
+        "2.png": "a80edf25a488a97eb4a9d398afd78094",
+        "3.png": "b410e3ec0a0a7fc453a9deda61408e1f",
+        "4.png": "63e6cca2ec4eb8a2cc6db041ca68d86e",
+        "5.png": "695074cbf35c916b7a3a185aa05ddedb",
+        "6.png": "a7c079644cd7ad6012abe7481ca8ab71",
+        "data.json": "25f6d978e704fdcbc99368edcd66a80c",
+        "10.png": "efe02dd6c3048f1af9e58c1cfbb28df7",
+        "11.png": "2fa17dfaee7ea35160f27a947cd6b867",
+        "12.png": "776866416f20f87d78fc14b1ced94f90",
+        "13.png": "9d697c11c0b46cd6b443c331fc6ff414",
+        "14.png": "00ca8de6b96769de441b0c69c9be011b",
+        "15.png": "536047748e22a19590350fa10bbbfeb8",
+        "16.png": "d0d1ce385fb0890e13e194ea7eb82e89",
+        "17.png": "704148fb3636eeded77879bd6b341e4d",
+        "18.png": "b9ae6b56ba806f79616f82a74fa78bdf",
+        "19.png": "afcc3534725265d8b7f7da7b85cac403",
+        "20.png": "1b9eb24277a238926de2145e521a3244",
+        "21.png": "40a361d0f1c889cb3287f76f7df2fe38",
+        "22.png": "8ed6c1804a3173c86fb0765f62647b34",
+        "7.png": "8b6b90878ef942c83623edba64476245",
+        "8.png": "626a320996cb7f63abb6840b9a4bfc86",
+        "9.png": "cc43a95a44c26564f905decebf075db4"
+      },
+      "size": 1429710
+    },
+    "cast": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "丢"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "234c73983048f3c6655c5be15f809827",
+        "0.png": "06c47346890644bb98444837224d81f0"
+      },
+      "size": 180282
+    },
+    "center_symmetry": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "中心对称",
+          "左上对称"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "fb487a5fdead7e4014d97cfb28239018"
+      },
+      "size": 908
+    },
+    "certificate": {
+      "type": "template",
+      "metadata": {
+        "alias": [
+          "喜报"
+        ],
+        "tags": [
+          "text-only"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "9f3ec21ee02e3e86ccf64352bed50c94",
+        "template.json": "ba6b411e2f6fbf872c23811f1676a6b5",
+        "0.png": "9f4d31d53f530eb004769d12a295a52e"
+      },
+      "size": 335599,
+      "dependentFonts": [
+        "MiSans-Bold.ttf"
+      ]
+    },
+    "chase_train": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "追列车",
+          "追火车"
+        ]
+      },
+      "resource": {
+        "0.png": "4569089f83469c6b9ed9d7c3506c31df",
+        "1.png": "558acf3c3425a1e3e4be05a8a37b9719",
+        "12.png": "fb7e5ff7ca52e4a4745b2e00ea3c33ef",
+        "15.png": "4fb46672a3e97098da309f76e69a2935",
+        "13.png": "7c1f9d714633635d3b5f57c4bfb6f678",
+        "14.png": "2e90b5cd31e919be31dd1b1fa02403d5",
+        "16.png": "929be96ae098b51ff13553db5555f321",
+        "17.png": "84b88d84a5ddcc7cbf090bbdbccfe86a",
+        "18.png": "4236986da136455907a18f686c838867",
+        "11.png": "5f292bec909b0b423870d25e6a0c7770",
+        "19.png": "f5269e2bd3ee569b9d805b15136b6dec",
+        "2.png": "df5bfc97794198586edd6b70930c87cc",
+        "21.png": "5dd6781d4f139e9994df3d581a8d80b1",
+        "22.png": "ed415367615c6590006824377aad596e",
+        "20.png": "3bdd92c7491387fec85bd414378fee42",
+        "23.png": "1fc9a64c05c6708580d939d7e302512b",
+        "24.png": "17f935199931841717a702690026d98a",
+        "25.png": "51ad5ac8b3804b23eb2ce1cdeb9a3c06",
+        "26.png": "36e9a72495d9d631d043cab0c79610de",
+        "27.png": "4f759bfa044ad6ef91787d121d11a0e0",
+        "28.png": "77126cbf077b35fbb6443012cd9fe39c",
+        "3.png": "8b8c2075f36c3135f9b36797002ae06f",
+        "29.png": "cf98548e1f88d1888087b4108ded822f",
+        "32.png": "cbcdb564e3ce67d309232e8da7458801",
+        "31.png": "c278245395ae58642b7e96634b31557a",
+        "30.png": "9f39ffee9459fbc80a60e6d2a94ccbec",
+        "33.png": "29211122969730b041b3f9b91c3d022e",
+        "36.png": "a98f39b0d0ac38346c49e0e8d2bd6249",
+        "34.png": "2d26c45f843ad557774238d16e762f87",
+        "35.png": "79f3ec0e6d6a6c1ffdc7486c4418f82f",
+        "37.png": "41fec848c84eb69e9052cb9e7c92e6ba",
+        "39.png": "d27318b2d41920a9695fb3249e968041",
+        "38.png": "54e4e30647c09c74a08558a1d2da4d36",
+        "4.png": "bcef271ac2b29594d107cda783a15482",
+        "40.png": "05d72351d42cad92b6ca6b354adf5fe4",
+        "42.png": "07c4dbb64a436dd3d9c21ccdb887e941",
+        "41.png": "f50be4558b108cc2f2a4fed6927ca7f0",
+        "43.png": "21fbd1a4c3f8067d7ba2b55ab9281d85",
+        "44.png": "e587238d8a9d45a14b6c98846ade4736",
+        "45.png": "0ff028dd3f0f5973385a6b8a9de983c5",
+        "47.png": "5436a1b37b4cbfd3a3e4c5201331fc71",
+        "46.png": "7ce39ab901a658dff1bcaa1781ea0230",
+        "48.png": "f5da8201efb9d5bb461a5974bff5bf17",
+        "49.png": "c6e8d7a58b0b054e7d8b57dfe06e171c",
+        "5.png": "ccbf2c6a49d3b959776ffc9a32974a41",
+        "50.png": "f1d3d34a0524bc9f5c118c036e04b030",
+        "51.png": "e390db6d1d3610aee3a10742f8372f21",
+        "52.png": "104b4cb12a72208a20cdc3518c6231d2",
+        "54.png": "37a80440a905491520dd3bd5dc8589ee",
+        "53.png": "052b9624e90963c9c294b5598566c392",
+        "55.png": "17b9636b7fd8641f6ecbda0cceda1d68",
+        "56.png": "94b204b5ab95e388c3b5632cf71559d0",
+        "58.png": "c5a9fa6d85308b3ca55ee163f88e8065",
+        "57.png": "7c058289a3a427bff50844f4388e6e59",
+        "59.png": "2b4e220f2a2492ac8238f35c4a89fa41",
+        "6.png": "76fcf199185d26a96c1dbe2fcbedbea3",
+        "7.png": "623da23238d99f294d02a722e224c3dc",
+        "8.png": "575b0e7a958681e0a4b861042f8c8a4c",
+        "9.png": "fc68831a96ab942b8c5fc995f3a6296c",
+        "data.json": "0c0fe1051ca69350ee5546ffc2cc02e2",
+        "10.png": "9b12478f08ef648b74f030d3ce9aa0fe"
+      },
+      "size": 266227
+    },
+    "control": {
+      "type": "template",
+      "metadata": {
+        "alias": [
+          "遥控",
+          "开关"
+        ],
+        "tags": [
+          "nsfw"
+        ],
+        "preview": "./3.png",
+        "inRandomList": false,
+        "apiVersion": 101
+      },
+      "resource": {
+        "data.json": "277a079f69d4a901c7a403037982d266",
+        "build.js": "85d31a2c33d04a870223e34c8c223698",
+        "template.json": "368ac16493b9572c06bb5c76f6234ee8",
+        "1.png": "b3f7fdf941a11a5a22f980663381ffa3",
+        "0.png": "8ca79f37216838797b41ba45595c5e18",
+        "10.png": "57cbde3ec8ea65ad08fc1d8cfe1efbda",
+        "12.png": "f685cf70af2132668e1d3b679f3e1642",
+        "13.png": "b5a943e074f7b936c4c34267387d05ea",
+        "16.png": "9ebf575e3cf688ff72f56e4ed00c1193",
+        "15.png": "6e1726f1f66295efb9dc71f5fb2f2fab",
+        "2.png": "145411a7ff3c43996c6a4e96ad774a61",
+        "14.png": "6b1e37fdf3e587f348ce32113efd08fe",
+        "4.png": "075c6d4f2af52259e3af728c3e72dd6a",
+        "6.png": "6ce86a56f50d04607cbaced4390a32d2",
+        "5.png": "871966c7c4884861766e784170d8418b",
+        "7.png": "928802e2ca839a39fa6b0b90d54ae0db",
+        "8.png": "1a5d1ffd7fc087f5f569504ea0981f4b",
+        "9.png": "6f3373ff08d1b353a1a9f94a128ebe69",
+        "11.png": "95002681f60c3dd9fecee67cdd6481be",
+        "3.png": "a39e60a062ac92e12d1d3314e5c743e7"
+      },
+      "size": 1212058
+    },
+    "coupon": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "陪睡"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "1039eaa35515719be6570f765babd916",
+        "0.png": "e8819eda460226d0d3d332396f2fec06"
+      },
+      "size": 167744
+    },
+    "cover_face": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "挡"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "2662e848049f9b2f0a27d86af2b3b9e2",
+        "0.png": "8e26cd9059e61526a04d87918f9744a7"
+      },
+      "size": 206884
+    },
+    "crawl": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "爬"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "023fe6b8417ff071de3c93b267abaad8",
+        "0.png": "7c3ee42c3ff9426fc8f4de5ab143d85c"
+      },
+      "size": 146742
+    },
+    "cum": {
+      "type": "template",
+      "metadata": {
+        "alias": [
+          "射",
+          "打胶"
+        ],
+        "tags": [
+          "nsfw"
+        ],
+        "preview": "./12.png",
+        "inRandomList": false
+      },
+      "resource": {
+        "0.png": "5960d6f4f890dbaa6c077b228807776d",
+        "1.png": "f102817544f4951c555481278edef2b6",
+        "10.png": "908a1b902d850f6952054f600e715c07",
+        "11.png": "2cd49aa1aefe3c14d8f0b572e2b6cf8b",
+        "12.png": "945fc68fecf33af0941a00a6544b1363",
+        "3.png": "60ee1aeaf87a4f149ba8e47473b8adf5",
+        "4.png": "e8c9134c4b09a169d5f5aced457237f7",
+        "2.png": "27c4bcd311d8eed7b81604e21dbf3c36",
+        "5.png": "12fc817bffe5d4adf7f9be2f7aaede67",
+        "6.png": "680225dd676ef5d17b3ed55fe5d1e28d",
+        "7.png": "bc87ce81615f9c268ecf2bdf8b72c9d8",
+        "8.png": "f3bd3b9f01ed89685a4c9d0fb4c0278d",
+        "9.png": "7903a875f0073aadb39b81b882899305",
+        "data.json": "ba05fb61c7b8f1a406850af915002c3f",
+        "template.json": "5188678907e03b1aa3de19add57e4272"
+      },
+      "size": 35136
+    },
+    "decent_kiss": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "抱歉"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "f87c76fbb13cf5953dcfa5fefc5eec91",
+        "0.png": "c7bf01f3d8177d267d9dfd0a61b67007"
+      },
+      "size": 121765
+    },
+    "deer": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "鹿乃子",
+          "🦌"
+        ]
+      },
+      "resource": {
+        "data.json": "2df73effd70525ddbed822795caeeab2",
+        "0.png": "9e84b02e66ddde85202e6ac275241fa3"
+      },
+      "size": 179994
+    },
+    "deer-show": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "虎视子",
+          "展示"
+        ]
+      },
+      "resource": {
+        "data.json": "85a843d97574991e94240b73c9ab0790",
+        "0.png": "fec88e899ef819659092cbdfe7b805d7"
+      },
+      "size": 371868
+    },
+    "dinosaur": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "恐龙",
+          "小恐龙"
+        ]
+      },
+      "resource": {
+        "data.json": "5fd5d62ec5e1316740de1fcb7341a8e5",
+        "0.png": "251297d111f8391273592f4feb7eca4f"
+      },
+      "size": 115776
+    },
+    "distracted": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "注意力"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "df0da533898ce1b2d27e3a5034f17744",
+        "0.png": "cad38f0b713de0deb81b27f40b990866"
+      },
+      "size": 40094
+    },
+    "divorce": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "离婚申请",
+          "离婚协议",
+          "离婚"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "4911a32b2a9e6e9cebc8087d3e858884",
+        "0.png": "2b142fc47a2cc1cc723a4edb33f7efcf"
+      },
+      "size": 605048
+    },
+    "dont_touch": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "不要靠近"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "8d63e5b36747c511905b94ee81bd4468",
+        "0.png": "eb240a7e56142a9e5233f675430b7481"
+      },
+      "size": 226714
+    },
+    "down_symmetry": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "对称",
+          "下对称",
+          "上下对称"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "d6bcc1ed86a11a423074e5716347da14"
+      },
+      "size": 541
+    },
+    "eat": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "吃"
+        ]
+      },
+      "resource": {
+        "0.png": "a06b8d1382be3639e9d90f46bf450219",
+        "1.png": "8475d4a23189320824fba29d9d47ce10",
+        "2.png": "279077e30e8ca994272b9677a5eb568a",
+        "data.json": "b6bf53ee246d31c15c28a7c0310c2b13"
+      },
+      "size": 6740
+    },
+    "eat_earth": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "啃地球"
+        ]
+      },
+      "resource": {
+        "data.json": "0d34126530b788f0784409a93f0ef1ce",
+        "0.png": "2b73be3576d3057b276cd085af188c92"
+      },
+      "size": 938524
+    },
+    "fantasy_time": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "幻想时间"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "4c118b1113203c59c491c60de47f3168",
+        "0.png": "db23439cc26a8c062804af87606a487e"
+      },
+      "size": 392906
+    },
+    "fencing": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "击剑",
+          "🤺"
+        ]
+      },
+      "resource": {
+        "0.png": "494d6744b2fe70a2a24fa5680eab62e7",
+        "1.png": "c2352fea73085e5e30465bdbd14e967f",
+        "10.png": "bb11fc489bf9c9a5d6d7b6216cf2add7",
+        "11.png": "bd2f472a815021ffe09a038256fc3ed6",
+        "12.png": "c38fc68dbffa8f811dde76d05e158000",
+        "13.png": "05c025367c38dcb56cbddc25dcee5c2c",
+        "14.png": "e630633af5f3554a665c7acc700d8062",
+        "16.png": "b2f3d5aae539fb2be6bc93d70361d93c",
+        "15.png": "1a992964b9dc0730e3b8e5f6fa8e33c6",
+        "17.png": "b6305e03a78495edba1787a2fe33cad0",
+        "18.png": "0cd2f141d092fe8c2bc703b222275ac0",
+        "2.png": "8ef9f2964d620faf379ac3f9556d1ab1",
+        "5.png": "d13f10788d9b40353a3e0ea69fe646a5",
+        "4.png": "f7f92325df415688edd85295e8ffbf1b",
+        "3.png": "b0353f65f1f5c6f0dff890e314fbf866",
+        "6.png": "99691ce248fdb3f8ec6365185c88b944",
+        "7.png": "8eefb0b92e25340030721db422658c0c",
+        "8.png": "8d4c631bc83659ffa3ede9dbf604f65c",
+        "9.png": "81f17c9e3396f1d236efdb4d7a45c92f",
+        "data.json": "f096258d06fdc644c3a6070eaadfdca0"
+      },
+      "size": 152359
+    },
+    "flush": {
+      "type": "template",
+      "metadata": {
+        "alias": [
+          "红温",
+          "爆炸"
+        ],
+        "preview": "./8.png",
+        "apiVersion": 101
+      },
+      "resource": {
+        "0.png": "aae179168f1f39aa17cd1a75d393cad5",
+        "1.png": "e74318a51cba67c85beda1741d2e142d",
+        "10.png": "10ee163ef62226ecf3e20e91fccf4b3e",
+        "2.png": "b0ebb682cccefbf702821f2445b7e7de",
+        "11.png": "671a6435befe1b2d849914a602221713",
+        "3.png": "27f5a6d61b5ed4899018d61559032597",
+        "4.png": "c8bbc98d286a6109d937986e12eec51a",
+        "6.png": "4445681986313799a5cf9a848a128623",
+        "5.png": "ce9881e002fcb0ab636f712956a91a1b",
+        "7.png": "14c6e1af5501d72fa6f96055a834c5fb",
+        "8.png": "37653e1e4f9124373493c70b12d34777",
+        "9.png": "7be0b50ba3601e3f01f9086f13ea656e",
+        "red.png": "fe12ceff4325ae8e7973e9ea944df406",
+        "build.js": "db5b55bec3fbb9575c559c09d5828d3d",
+        "template.json": "d8d05d69041b2553e8aac2a0750bed4b"
+      },
+      "size": 190517
+    },
+    "fogging": {
+      "type": "template",
+      "metadata": {
+        "alias": [
+          "回南天",
+          "水雾"
+        ],
+        "preview": "./fg.png"
+      },
+      "resource": {
+        "data.json": "67dcae39d9d31b4424230d277c3f4edc",
+        "template.json": "86014446d78f97f3aca74361de5b6e12",
+        "0.png": "3bfffb17dc4de5ee9d49067653a3c76d",
+        "fg.png": "c786f685c2bb5d3ffd613fccd7feee6d"
+      },
+      "size": 269499
+    },
+    "frieren_take": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "芙莉莲",
+          "拿"
+        ]
+      },
+      "resource": {
+        "data.json": "9dc90924e4f31b98bf3120cc8eef2bc8",
+        "0.png": "e398b7c3f7088245e4b3772375757beb"
+      },
+      "size": 556718
+    },
+    "garbage": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "垃圾桶",
+          "垃圾",
+          "探头"
+        ]
+      },
+      "resource": {
+        "0.png": "d8bebb45b8af2d79781ce72812d8fccf",
+        "10.png": "9f680d8dd096e414e20ea64b2b241ff8",
+        "1.png": "991e3988fcb4c5e1baa8d781ff721825",
+        "11.png": "038904f0e2d227ae2bd194be6c1e710e",
+        "12.png": "25d45a04463e78e4300dd566d436c4df",
+        "13.png": "49760e856e7213a55a865082acd587d0",
+        "14.png": "6d2a75bd9fb3e7867acb0c25c1dbbf73",
+        "15.png": "d55b215bf80801dbfc82433ca0b1e457",
+        "16.png": "698d8d3c36ca7c84889607bdbe557226",
+        "17.png": "78c300b950f1089d3f37b47a8e03cd7f",
+        "19.png": "e789a2f78e594c2be82d8238c8243f5f",
+        "18.png": "9e6a68dacc4023f444a9a0c093d54c1c",
+        "2.png": "c081027b716620fe282099e8efe99632",
+        "21.png": "3fdd81e87ffa5a2374a300d19b74c319",
+        "20.png": "59556d85f54894cf87bad633cc8cf29d",
+        "22.png": "8d095a7387a46ca58541f456ddc05c9c",
+        "23.png": "f0e76d1710d15fc9f0acfc4c21f35c5e",
+        "24.png": "26b78eec9805a03bb3f60cb005b264d8",
+        "4.png": "3b33ff5f06ff9e0e8f947f64ef99c8b6",
+        "5.png": "91e7ebcf48a131f531329718d051c703",
+        "3.png": "6f52905589d46842b63c2b256158c278",
+        "6.png": "1fef4a653bed1be39766b7953d233bd9",
+        "8.png": "ce3d2be894a73bf4bf9e191133e24829",
+        "7.png": "0c063652c58ca51f77653e9ae9f8be80",
+        "9.png": "7544d5db161b77d0f9159fa8d78cf3be",
+        "data.json": "ff859f1b3250983919d2bdec18327287"
+      },
+      "size": 468796
+    },
+    "genshin_start": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "启动"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "2e58884bcdc27b854a566b5dde63d27c",
+        "0.png": "66dd9f160f8ad11922c203fbe77fcbaa"
+      },
+      "size": 684634
+    },
+    "gluing": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "打胶"
+        ]
+      },
+      "resource": {
+        "data.json": "d3a18aa97761cf54196ee91a88b00836",
+        "0.png": "5bf263b9a382593585118814a470f192"
+      },
+      "size": 97212
+    },
+    "hammer": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "锤"
+        ]
+      },
+      "resource": {
+        "0.png": "b8e94050256fc70c57f7167a8bbe3842",
+        "1.png": "e87bdd2e1ab714965594486ec7e59273",
+        "2.png": "3db04d878be5d2bcc6385419464f8cbe",
+        "3.png": "5926fc010853908f2fde98149b1cde26",
+        "5.png": "4f183ced8935e58b63e65330bce6479a",
+        "6.png": "fa99a2c0fd32fc12b53c29b34ecfdc5b",
+        "4.png": "9b10b4ee1c6980260d48489d2edb4b0d",
+        "data.json": "f047356a61888a3827e478966b4b4da3"
+      },
+      "size": 38555
+    },
+    "hold": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "举牌",
+          "应援"
+        ]
+      },
+      "resource": {
+        "data.json": "df6c62dc0dd876e191ee1b5011c40af4",
+        "0.png": "6dfb1591cf6446996f46ea42ade17049"
+      },
+      "size": 40185
+    },
+    "hold_sign": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "唐可可",
+          "举牌",
+          "应援"
+        ]
+      },
+      "resource": {
+        "data.json": "8fbe480516e32f438746a3b28f0cb3e2",
+        "0.png": "4b0996d7cbdd8e9409a79dea071a01c2",
+        "1.png": "7e2ad13a0cafb74385ed9b600b4fc172",
+        "10.png": "cd63823284e11471738afe9db4702a52",
+        "11.png": "9dd87e60712401c9ed1837c7366cdb0a",
+        "12.png": "94f16191e6349e5ea1527b43d6ba0c35",
+        "13.png": "b933afc2d05436d334a617f163195ae4",
+        "14.png": "603df3a1fd1471cc19f57278e7239f1c",
+        "2.png": "18b19dac907b86fafdb1bc21f5aa1c26",
+        "4.png": "ca3209888f96d0f0ca857e8ef071069b",
+        "5.png": "4d17fe6e3d56b0fde997133b50b038db",
+        "3.png": "72781415d42ad7c07c4590f63c3ba012",
+        "7.png": "c925f70fd240737bc3910e7ce065ecdc",
+        "6.png": "ce849be262fb6b89c2c4a4a0d292147c",
+        "8.png": "efe38079a2bf6d2774bccfba198b2561",
+        "9.png": "dc1ca469b0083e4452319bc40539f2e9"
+      },
+      "size": 1749394
+    },
+    "hypnosis_app": {
+      "type": "template",
+      "metadata": {
+        "alias": [
+          "催眠",
+          "催眠app"
+        ],
+        "preview": "./0.png",
+        "inRandomList": false
+      },
+      "resource": {
+        "0.png": "e20477af389db377d8f31caa1a433669",
+        "1.png": "01b11861bfbaf780ef9ceb3c5b2f4ab3",
+        "10.png": "2598b3612a98f0bdb688d9868cdf566b",
+        "11.png": "a05a6dc995a6af598a3694befec3d9ba",
+        "12.png": "1aec6d37cd5c50435490cdb35e9b8374",
+        "13.png": "d89f90d66ff1d2229aa70baeaffd4019",
+        "15.png": "fd0554574510239b3a4ff5e8e1e66652",
+        "14.png": "9347e0ec9dfcb562bbf410ce0d87a715",
+        "16.png": "9f7d8c65abb1de97d37a8d3fc011cdf9",
+        "17.png": "1e21c5faa896d7d3ecddbf974cf5f098",
+        "19.png": "91eec9a6527fc1545e5be61d2ffc54f0",
+        "18.png": "5434dc4836ca42fd9bcbf9e67f62d38a",
+        "2.png": "d5eabc2e5e7219868858b36475ce69e4",
+        "20.png": "bb319fd41df513b7b8cc4a867bf12514",
+        "21.png": "31e3842ff016f091da996607ea222977",
+        "22.png": "752db02aee938c0b2897d9281a70953a",
+        "23.png": "bcd9df92d75757ca413109deddd621cd",
+        "24.png": "3bb446910e8752a2aa6b6122359eebe1",
+        "3.png": "660a1294f434f06b026583ca96e240db",
+        "4.png": "d8f3b37133c35efc9d4bbf4f42916f22",
+        "5.png": "bc75e21dae28fd3f8d2dc5244cea22f2",
+        "6.png": "1eefbba19312f52e4bfeac8c3ac3a642",
+        "7.png": "189d3f5f059f1114c5837f332b986214",
+        "8.png": "c444cb88f701d43a4d39805f17de8059",
+        "9.png": "609cde3f2b2aae2ee323c3cc451cd748",
+        "template.json": "a52b3dc3f5f12be7a09a7daf9eeb27a7"
+      },
+      "size": 174229
+    },
+    "hypnotize": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "手机",
+          "催眠",
+          "486",
+          "mmk"
+        ]
+      },
+      "resource": {
+        "0.png": "333a8f45b7cebc32762b876d885a9070",
+        "1.png": "16516035c8f926ef87ab63f6181e2b1b",
+        "10.png": "ca45e3031b264bdecce68eaefd87280c",
+        "11.png": "0bafb52aa968baccfccfaacd8fb1b139",
+        "12.png": "a3c97211a63a46241958ff30230676a4",
+        "13.png": "54912d82d825033250e178227ee644e3",
+        "14.png": "80cf873d750a5befec51c37853a78a6e",
+        "15.png": "a7e3c2f593d2d9e1b590ae77ee7d4c23",
+        "16.png": "211fee09bf58465227d3f8d0c3b07e24",
+        "17.png": "28feac397f9f0b14182c947491500d6d",
+        "2.png": "f030253bc41f91d00e586ecccc70d204",
+        "20.png": "48ae9999de785ae58907e262e9b36385",
+        "21.png": "fe03f719a08c39b8d02fad29df2d9a42",
+        "22.png": "28557a11717573a580ed34b842d1a1e9",
+        "19.png": "453f5f102b8cfc6a3b72f55c4c5aca4e",
+        "24.png": "46f34c284928bdb788bbb6b34612956f",
+        "23.png": "1490449c4d01ca844432d94a978f13ef",
+        "26.png": "f11d55b30e72a3a0eb05b0422450f6dc",
+        "27.png": "7c5bb5cd287821c2e83c839269b200dd",
+        "25.png": "44de1959a1389e157fa10be3316bb916",
+        "28.png": "0566636ebc7d69e2a85814c5f6910b9e",
+        "29.png": "ca841a2b458efb039c09caa9d4bf7eb8",
+        "3.png": "6e8275a37ec97de78634592e6accabd3",
+        "30.png": "992d15bb1efa5a578780695b7a1e0d71",
+        "31.png": "a3bafca74b2da190c4f4ac84bf743a88",
+        "33.png": "06380e32ab2fb0aab54883c00e66dfd0",
+        "34.png": "48ca0a4be73dd573883ea1d273ba9848",
+        "32.png": "cc137f1447412386cda08a7c19cefbcd",
+        "35.png": "d254d9cd3e081faf1a84fd3f577f64fc",
+        "36.png": "df0bf84e89f4d5fc4d400ab959e124be",
+        "37.png": "16cb1034d966ccbdcb14407844263be1",
+        "38.png": "2d677c7a1acd3c063dde001321ca1298",
+        "39.png": "580a02c75440e6b7eaa7aea429addd1a",
+        "4.png": "7fde3e64601a10c55872d474c2392051",
+        "41.png": "1b5c98298e223d98b68eb8c4f7711f24",
+        "40.png": "cada3aabc59b9c966d6fc364590fd2db",
+        "5.png": "24ca77ddd1ee39647c00ce6cf6aecd90",
+        "6.png": "ead35e8c01537a61323181163649a435",
+        "7.png": "2f781868d8dea5407bfc712324274af1",
+        "9.png": "64a6cf326aaabce6c738cef4a0a7606f",
+        "8.png": "c2bd67fac66399aecb2791ee8cd863bd",
+        "data.json": "b567430b4e2e780e8c05bde2510ac272",
+        "18.png": "3095b0bea432c621d9cfddb25319ea9c"
+      },
+      "size": 607876
+    },
+    "index-img-masonry": {
+      "type": "script",
+      "metadata": {
+        "hidden": true,
+        "inRandomList": false,
+        "defaultTemplateWeight": 10
+      },
+      "resource": {
+        ".gitignore": "0fea6a13c52b4d4725368f24b045ca84",
+        "no_image.jpg": "64d2ed96e39a2e3ee36d297e6f7c4913",
+        "main.js": "088911211d0a02ae9debe5ca92487a7c"
+      },
+      "size": 14867
+    },
+    "index-text-tabel": {
+      "type": "script",
+      "metadata": {
+        "hidden": true,
+        "inRandomList": false,
+        "defaultTemplateWeight": 100
+      },
+      "resource": {
+        "main.js": "e9ba14c8adab10057ebf8624dfa221ba",
+        "calculate-ascii-length.js": "824acc81802f76af526b6f6f78d55d3d",
+        "ntqq-ascii-size.json": "adaf0e38127c3f5e341152a7e984dc51"
+      },
+      "size": 16665
+    },
+    "interview": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "采访"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "de4c47032eb880c011ab7af63a659b0f",
+        "0.png": "2ade178a3a05a2263fade8ac272d08b1"
+      },
+      "size": 36253
+    },
+    "jerry_hold": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "杰瑞",
+          "观察"
+        ]
+      },
+      "resource": {
+        "data.json": "bb96414002036eb8f0c50c1d791534e1",
+        "0.png": "1157dcf27d9c25a5a292e3fad2d04a1c"
+      },
+      "size": 215252
+    },
+    "jiujiu": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "么么"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "0.png": "f04ca30ec070d6f637ea3d82fbc1c9be",
+        "1.png": "09c76abd09329710b5da6d9a5db78c48",
+        "3.png": "b39a3d3653457155b87793f8e869f27e",
+        "2.png": "70a96ce5a394a161088607dbadf20adb",
+        "4.png": "9990ce32be2f40cc3f063ee2684e9791",
+        "5.png": "03e6c086b44209aea201ab68ee664587",
+        "6.png": "7e6f1a95d93540caef8ba62ddc47ef9f",
+        "data.json": "6a7f01b0a10be9cf7f6f91995a826a0f"
+      },
+      "size": 8643
+    },
+    "join": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "加入"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "dfaae6d24c6df445cc177e7c343523d9",
+        "0.png": "18316578a42ffcafb8f12f9924bfa704"
+      },
+      "size": 263123
+    },
+    "karyl_point": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "指",
+          "凯露指"
+        ]
+      },
+      "resource": {
+        "data.json": "f90bcdf62bbd6f8760ae1499f8009ce0",
+        "0.png": "9ab82387b8f3cce1acdb57499c49ebe7"
+      },
+      "size": 934642
+    },
+    "keep_away": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "远离"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "553d7e38d7d94d6892517051eef6ca22",
+        "0.png": "a448a22fc9f6cf022420a27c4eaf6a0d"
+      },
+      "size": 748794
+    },
+    "key_list": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "inRandomList": false,
+        "hidden": true
+      },
+      "resource": {
+        "data.json": "b882a83b8a83e659426828d339dbaae1"
+      },
+      "size": 395,
+      "dependentFonts": [
+        "MiSans-Bold.ttf"
+      ]
+    },
+    "kick_ball": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "踢球"
+        ]
+      },
+      "resource": {
+        "0.png": "d2b2916d37d2cccd5c9f12ea99da87a7",
+        "10.png": "9535ff5344dbf99f1afbf27f0282b2d1",
+        "1.png": "509da70e46d631c3353ad525431b7674",
+        "13.png": "0dd603137fc1de3b18e4c0fd65eda6bb",
+        "11.png": "4af18499194c6436eca8ff0a24944643",
+        "12.png": "95897fc9e72b3f9ada4cf3ae673cbcdc",
+        "3.png": "94990605389da96c2f8168b4c2561562",
+        "2.png": "bd6d20fd03612ba751059157b1966fab",
+        "14.png": "fd8164a80326bdd5eee1291767b05ed3",
+        "5.png": "80e2a119658a86b1d97a26c2b41d8481",
+        "4.png": "6b0071cb715b8bc853ba32cde58a0e73",
+        "6.png": "f573f27a1d7ff5117f2855d34bd225a1",
+        "8.png": "3865dacbe636cb2c56967b1d873752c3",
+        "7.png": "76d027ec89c7de2b0abeabe84497cd00",
+        "data.json": "b2956a8c3528b1a7da2dbeaf9accaa59",
+        "9.png": "ca06142edeeafb64a59cd83985d4afd5"
+      },
+      "size": 214997
+    },
+    "kirby_hammer": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "卡比锤",
+          "卡比重锤",
+          "重锤"
+        ]
+      },
+      "resource": {
+        "1.png": "9f17d2d233d185062dd2848a0a1754fc",
+        "11.png": "8a263c823b44b243346d2b239675f2ee",
+        "10.png": "dc182056051c467e4d1b0c903ef54bdc",
+        "12.png": "44d624af01a878c4b4b9037362f3d3fd",
+        "13.png": "b2d27530c31ea627a2ae3fd6e9372bc1",
+        "14.png": "474c92000b6f2f959615e8232e9d0ebb",
+        "15.png": "600578d5aabde02b0473c781d92a2857",
+        "16.png": "c3101afdcd9c9c9d84a9cac225aab90b",
+        "17.png": "a9ee5744c2a334b40fb5562368d7c825",
+        "19.png": "463b3cb3751928a8b9c75be6d6467b77",
+        "18.png": "dc05f031595308c8893830051c3d7824",
+        "3.png": "38b7b66eeae8d7a7e907886298c1dd66",
+        "5.png": "d5bfd5e70414e76ff844893af1b859d3",
+        "4.png": "49e03e4a437387faa65c1edc8bf320f8",
+        "6.png": "9653a4300f31950d6d5540e547d72c67",
+        "7.png": "2eea1054e14dd3768d99e4c796230852",
+        "data.json": "f6127bf4e17ae86548ff9778b5347a3b",
+        "8.png": "3c0d8652d9a44a570892313e1861610c",
+        "9.png": "4a57a2e63e9ad1bd2f11d26a29ce9959",
+        "0.png": "1159e8638571230be335a5afc662a12a",
+        "2.png": "fa8c50f33f97c732ac8a52804c946545",
+        "20.png": "2298cb14e3a8c73a2a5f117ec5fa0ded",
+        "21.png": "d6d8b2fe8c0feca0aee310ab83aca7aa",
+        "24.png": "0f1070510cbfec6ae5b24b1dc89b2999",
+        "22.png": "dbe8884044b6589e44cd015349c29f85",
+        "23.png": "e1998d760d0388b93afee971293ecb6a",
+        "25.png": "5a8ee9c43f7b17d9ee49ff9eda4f817d",
+        "26.png": "c6e332fb5d08c668b1ffc82719acb467",
+        "27.png": "4310d72dcb001ea49b9dc748f03c96a5",
+        "28.png": "f85c9f7e1b738b66dd6ce31a39a5f0e4",
+        "30.png": "233cf289c7673a6f9865ff4092355924",
+        "29.png": "5c867750b2079f65883a23ad8f971525"
+      },
+      "size": 1825833
+    },
+    "kiss": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "亲",
+          "热吻"
+        ]
+      },
+      "resource": {
+        "0.png": "49c396692947a52148bcef0ea47f0491",
+        "1.png": "f3587ef479ea9243d6370f7a6b30b68b",
+        "11.png": "84c8d3845fca2efe97cb5f6beb113376",
+        "10.png": "d396dfc1857882f82a5294a3af1d638b",
+        "2.png": "97fd783dbe88877952a092199671d514",
+        "12.png": "9d50e3777af1b60b58fe30009ce29c24",
+        "5.png": "686562b06f7834f6328a2ece1931d85d",
+        "3.png": "93c7d6c3ca56be70f10eabe92a828120",
+        "4.png": "a6079d128ba4c0fb0f332823a36b780b",
+        "6.png": "5d53fa7523b11b2c61450c0b57c5826f",
+        "8.png": "2226d16df1e6f42535bb8814919b6e7c",
+        "7.png": "e690eac3a3ba1c32f235a64de9f10263",
+        "data.json": "b59f7da1bd88e1ead7aa73d1bcb24b9c",
+        "9.png": "2ddacd69e518cdc3b63dc682bffe4d1e"
+      },
+      "size": 182170
+    },
+    "kita": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "喜多",
+          "展示"
+        ],
+        "inRandomList": true
+      },
+      "resource": {
+        "data.json": "75dfb7fcb67fe2d36ede0af2a58f2af2",
+        "0.png": "913798ed23f14e8a3e2b6495653ffd79",
+        "1.png": "c6f4295d5977be9a7302257243831e5f",
+        "10.png": "12922c428dd49c53a5c89d3f8979b7f8",
+        "13.png": "e7aeefcb44560ad8ada978daa47b6011",
+        "12.png": "532eb4da5a83b05577a3b8291e32a46f",
+        "11.png": "a84d0ca7cbd8265932ddb8cb4e15b191",
+        "14.png": "a14f2c23c41017c429c82876bd8f6ad8",
+        "15.png": "abeb9731e1c16d1a3cdee4c66c46294e",
+        "16.png": "f9cca580f6ed0d712c92430134ccff56",
+        "18.png": "edec703133a0236220c916c88d0ee425",
+        "17.png": "5ef196e4f96b149dbbefd435bcdd37aa",
+        "19.png": "60499e70a5802086377acaede51fb607",
+        "2.png": "380e3ff21e063accbc9823104876cbdd",
+        "20.png": "a3067585423996d8c52f2c3aebb2de3c",
+        "22.png": "e0ebd744856fa2ae02c438880104178d",
+        "21.png": "96b50dcf66ecb3673b3bcf28e84b8d54",
+        "23.png": "0436274a03f198415203c4406144eabd",
+        "24.png": "70bab77c4b358c4ce4c5cbe04fd1306d",
+        "25.png": "272d9b4a681d04b3738bde1f25b430d0",
+        "26.png": "3244f742050915b3d86d31f185fbae6e",
+        "27.png": "4154d7fc033d8d53d8b9ed35cfccd302",
+        "29.png": "c448cd79146121d7934cc274fb6add37",
+        "3.png": "da3ccd07b571a5ca43d0772b62d78bb3",
+        "28.png": "637886d90172cadc1d14f300feed9ac7",
+        "4.png": "6871371b28b5b2c53aab58f806d4f262",
+        "6.png": "c4ab10902c9ae5daf486b6c596fbbc90",
+        "5.png": "e4a3ef30a745be884ed631e5efe1ad61",
+        "8.png": "8ebfacc388d47130ccc7ec61733f46c0",
+        "7.png": "eb65738b658c91b01b26c1f4b63a013c",
+        "9.png": "884f5f16c2b2e51876bfc7964c40a2ad"
+      },
+      "size": 2459597
+    },
+    "knock": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "敲",
+          "打"
+        ]
+      },
+      "resource": {
+        "0.png": "fe598f39e3c8f31780ddbbb19d390677",
+        "1.png": "dbe6c15d7f9cdbb247865ceeaae6729c",
+        "2.png": "8f8e4a6f32738140d85436e3a700dd04",
+        "3.png": "5d46832da3e02a6eec83f0c7fc335089",
+        "4.png": "37fed874203d222a31458d4deb2d6ce3",
+        "5.png": "f680906ea927640186788c53cef2ca18",
+        "6.png": "5be9c5e41342f23c7d9cab43ad83ff3f",
+        "data.json": "d4a0124137e46e28d7e342fc91f47a8d",
+        "7.png": "e593dbb2b8c686d097b0ac530397f7f6"
+      },
+      "size": 393748
+    },
+    "kurumi": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "胡桃",
+          "放大"
+        ]
+      },
+      "resource": {
+        "10.png": "96636c7b99de6478c533621cb738c359",
+        "11.png": "4e755bfee68660dc9d8a954b7d4ade0e",
+        "12.png": "7eb01898f3c021be1f4422ddda156449",
+        "13.png": "7b00a9eb069f0524717f1e6f78eca581",
+        "14.png": "e44eb768a6466fa7cb3991213ec6d341",
+        "15.png": "045d4e8bc6dfe03d80d235c52b43d8fe",
+        "16.png": "a06ad8576a6ce3960952e4b5eb6cefc1",
+        "17.png": "d2aff58b16a87b52b7ca2d1247ce5b67",
+        "18.png": "7c3270dc9c22106fc1bbd008ff6fdaed",
+        "19.png": "5a8be1f8c11fd3bde502fcad4a7d535e",
+        "21.png": "c83d942a9aab9e4cb942a78f339bc6a3",
+        "20.png": "f884b724ada6eb42e78d9a34194f8f4b",
+        "23.png": "ff8e7723089df5fa18f44bd2c081dcb3",
+        "22.png": "a86aea753d88feec4ac48b3d9d0b6c8f",
+        "4.png": "5b0250386bbc4984461ebe7b8b165a0e",
+        "5.png": "90c13c206c83b053e9efc2e69323ca4a",
+        "6.png": "b8093ea7ce31ffd3e874e3687f6337c8",
+        "7.png": "00a228caaffc39f4be62005151736c82",
+        "8.png": "bec1df1d0b68e52744a1c002acf7b4ff",
+        "data.json": "37571021a5864e552fa4806cbff07d64",
+        "9.png": "da2d8c5f9dc73ec4efb5d0de31c59706",
+        "0.png": "92bb0da8d3890e0717f9afea806feb3f",
+        "1.png": "a7188622f13997c0bac0c252f6ca8780",
+        "2.png": "d16bb37532169bc10694614cefa67f92",
+        "3.png": "a0cfd729ee63cabe86a0caf74ed197a1"
+      },
+      "size": 1434537
+    },
+    "left_down_symmetry": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "中心对称",
+          "左下对称"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "bf13e4348c665c3254e27a1e633eecfd"
+      },
+      "size": 912
+    },
+    "leg": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "蹭"
+        ]
+      },
+      "resource": {
+        "1.png": "31bd381c73cccd175f1c71497a752870",
+        "2.png": "49214e16f3150aea1cbc4849576516cd",
+        "0.png": "bc08d4fd4fa124712006354df0eb092d",
+        "3.png": "83f6f33ead609c270873287ee65b89ca",
+        "5.png": "3d12cc8ad857617351d2961790e031af",
+        "4.png": "74bf0373ac3b8057326722a0cf8fc51c",
+        "data.json": "bc05d1d0848e771a3d816a11b3e6ac24"
+      },
+      "size": 228400
+    },
+    "lift": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "举起"
+        ]
+      },
+      "resource": {
+        "data.json": "cf4e4a12b3e2123874760dd918f38ba8",
+        "0.png": "d58ee8f9eff9e03d8338f660a689450c"
+      },
+      "size": 94715
+    },
+    "like": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "永远喜欢"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "b12fe94a5fc64c82bf30d9df8ef52d8c",
+        "0.png": "7e4b3845cf80fa46942269d58bd64e9d"
+      },
+      "size": 81673
+    },
+    "loading": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "加载",
+          "加载中"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "328c43f48fa3ff441a965546bbaa0a78",
+        "0.png": "1e47020b702911f03ed75ad1d8d15480"
+      },
+      "size": 13999
+    },
+    "lost_notice": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "寻狗启事"
+        ],
+        "inRandomList": true
+      },
+      "resource": {
+        "data.json": "882c4256af1b0d214ebd4989e567b08b",
+        "0.png": "ad06467b9cf36cd5b89618d6c94f6516"
+      },
+      "size": 225739
+    },
+    "make_friend": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "加好友"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "015a2a7475ffde453cea7d92e28da44b",
+        "0.png": "9b20187a1eb50164c5963fc13146f4ea"
+      },
+      "size": 116427
+    },
+    "marry": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "结婚"
+        ]
+      },
+      "resource": {
+        "data.json": "11a220eeed3ac72a554d6f0cf4fef260",
+        "0.png": "1edce500340d00215a7fbf6afbd7018b"
+      },
+      "size": 300357
+    },
+    "masterpiece": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "名作"
+        ]
+      },
+      "resource": {
+        "data.json": "32915ff1ea52fe9a33fd1be577ab8cdf",
+        "0.png": "6acf27ddb03764684e1076b82eab6f85"
+      },
+      "size": 158999
+    },
+    "mirage": {
+      "type": "template",
+      "metadata": {
+        "alias": [
+          "幻影坦克",
+          "幻影"
+        ],
+        "apiVersion": 100,
+        "inRandomList": false
+      },
+      "resource": {
+        "template.json": "1005dd2cbbf8ed0423826ab127b773a5"
+      },
+      "size": 513
+    },
+    "monad": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "唐可可",
+          "拍",
+          "单页"
+        ]
+      },
+      "resource": {
+        "0.png": "30ae2039ca859ae21d26379092a13611",
+        "1.png": "16662845d6ca0c62ddfb4421a31e2c02",
+        "10.png": "3a4cb8b22d60512346bb835b30aadd35",
+        "11.png": "bb888d9371e73bf242343e54e8137058",
+        "12.png": "6f82fe780eb171a9b5e62beaf8fa9f9a",
+        "13.png": "2174da64dba3c15ae4c471abde82ffae",
+        "15.png": "27bc05cb2ee6b8dccdb50e00c3fec0ee",
+        "16.png": "f35095abe9cd1d129b13bf6f8453abb6",
+        "14.png": "a381a51a0463a4fdf1420733e4f577ed",
+        "18.png": "b889cc4a22309d213897fc7360557c8e",
+        "17.png": "071703e540b8291fba84229e095235a4",
+        "19.png": "330c95b83b5fe0e1a2c4583a5a9954b2",
+        "20.png": "3149556dd76701ab0f87ad6cab180323",
+        "2.png": "0796a4222dfac5d2552c9efcb8d310a2",
+        "4.png": "68f4143c14bb9e028d3d26ced5b34905",
+        "3.png": "abb39069835b569948fc51b67901769b",
+        "5.png": "d13aee40784301004fb000d8b8026d89",
+        "8.png": "ca4fe66b3a2fd1a76541c9892fca0b1d",
+        "7.png": "c7f292e99dcac1c8d091570d24cc5ad7",
+        "6.png": "23fb5269636154c182540a1a46ad046a",
+        "data.json": "334d5c65acdd4e985696b4848be75dce",
+        "9.png": "ed23fe4cda326cb0479abbbbad53b0ec",
+        "21.png": "ee612a88fe1fec543887912587df2cbd",
+        "22.png": "e2d9459d7448db9cc81aa468991a35ae",
+        "23.png": "1dc541b85c1ff75601417368e2fceae7"
+      },
+      "size": 1304535
+    },
+    "mourning": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "上香"
+        ]
+      },
+      "resource": {
+        "data.json": "03384fea4b3dd827cb9243b9a24241a9",
+        "0.png": "bd130178fb50bbb94955c1bef496285c"
+      },
+      "size": 338181
+    },
+    "nano": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "纳米科技"
+        ]
+      },
+      "resource": {
+        "data.json": "cbfba807aa3e35902e65deab0ffaba2a",
+        "0.png": "241dfa789d4957feda3fe40539d5c40f",
+        "2.png": "c0e153795ebebb1c1095e7a610e44904",
+        "1.png": "6dd7922b19900fb96b603af469c707ff",
+        "3.png": "c16eaa93dca3cbe36c5d03148974d6ba",
+        "4.png": "a59ad248b89a1fd7792195f8117b1ea1",
+        "5.png": "cde40db519535c344d976ad7be45ca99",
+        "6.png": "f5f66e59237bce1a0a03db280d5c63a5",
+        "7.png": "813d84e6b1cd84f1220909e6791cb9a0"
+      },
+      "size": 608286
+    },
+    "need": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "需要"
+        ]
+      },
+      "resource": {
+        "data.json": "72e1edacf734c8a2d4a598028a30c767",
+        "0.png": "1b1b6fb05731056fc52d9afd3b4877b9"
+      },
+      "size": 232910
+    },
+    "no_response": {
+      "type": "template",
+      "metadata": {
+        "alias": [
+          "无响应"
+        ]
+      },
+      "resource": {
+        "data.json": "45d0f3f29f7545da0bff573babcf8dd0",
+        "template.json": "85d8275b5ab9cf7636b341d1a34744ed",
+        "dialog.png": "b5daf2c4ad46318463e7b311a562f173",
+        "0.png": "2d83def33dfe559dcad883f39bfee4cb"
+      },
+      "size": 315033
+    },
+    "oil": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "油画"
+        ]
+      },
+      "resource": {
+        "data.json": "43d7a6c7a09f284956a41f0b5dcec14b"
+      },
+      "size": 248
+    },
+    "osu": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "inRandomList": false
+      },
+      "resource": {
+        "0.png": "1cdb8b4577e449db0f734d253262a236",
+        "data.json": "1311923e28835ff12696fb2146a57f7d"
+      },
+      "size": 23572,
+      "dependentFonts": [
+        "Aller-Bold.ttf"
+      ]
+    },
+    "painter": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "画"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "e144ead8cde5c520288a1a828c6e91a7",
+        "0.png": "a9b282341ef7222e44ad66cd9a39819c"
+      },
+      "size": 320415
+    },
+    "pat": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "拍"
+        ]
+      },
+      "resource": {
+        "0.png": "089f648471c168ed0eadcb5ad1a8a5b0",
+        "1.png": "7e2aa352d96eee79d7ead97f9f867c58",
+        "2.png": "8268e18385c30834fad22a44d26bfffd",
+        "3.png": "afbfb52f564d8e21275d5150ebd7bc19",
+        "4.png": "184b8669333285cbca11ff02bd5e7938",
+        "5.png": "f57fb66c9dc205f3a2d60039ed3e81f3",
+        "6.png": "0bca6a9528efd4c75e069aade9c5d70f",
+        "7.png": "981681b3d681ca561254e2cbb1b2908b",
+        "8.png": "92b0a66f1fa6818635772f03a6379788",
+        "9.png": "2ee0fda7d77e0b5d6c6d65e5974c70dc",
+        "data.json": "1fb80a25e35a3c794bafbad548e1d147"
+      },
+      "size": 180106
+    },
+    "peep": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "泷奈",
+          "偷看"
+        ]
+      },
+      "resource": {
+        "data.json": "96472ae5417673d1c8d87f852b3f4875",
+        "0.png": "cd5d16da8698c7cb8f6d830390a95377",
+        "1.png": "54af40455065a7f367227e87b808ec3c",
+        "10.png": "12bc93bcee5526fe14c13c2de6301149",
+        "12.png": "e5e72d5df6d88e4bd6d36020b329be64",
+        "13.png": "b745d9a56a19e7b847c2091726746c19",
+        "11.png": "9e7f0742a2f667080d8e668358f73989",
+        "14.png": "2edc9e60e293370cac0be4f37efbfff0",
+        "15.png": "56937252926393b9b0fa2190bd9b0c41",
+        "16.png": "6ac75a396ef19fba7a342be633ed2bb2",
+        "17.png": "c49e17dc729eb388d9c8486ddbcc3e97",
+        "18.png": "0a1b4684df8543b717822dea1fdf610c",
+        "19.png": "f70e62297b242d5df190c85980b9d52d",
+        "3.png": "3b9bfd74eb4dbd670ca17b2cf4cc3bb6",
+        "2.png": "d33238b94d2df357a506660a26ec6e56",
+        "4.png": "975579925b95cfb135f6abf980cfba77",
+        "5.png": "b06489ffc8984b13827c1fca5a476d01",
+        "6.png": "87479d52b88b1a4f2dc47cae504d2b2f",
+        "7.png": "66e0686608e334dbc6a30ce67758fc70",
+        "9.png": "130ee54848af824509ed712e51e29363",
+        "8.png": "ab8f2c8c4b6f7a0c081cf7fd255467b9"
+      },
+      "size": 1604258
+    },
+    "perfect": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "完美"
+        ]
+      },
+      "resource": {
+        "data.json": "aa54d616b35aba5f23a788b575d07bcb",
+        "0.png": "0a99253f52eeef8b86143f05b7c1cd0c"
+      },
+      "size": 124625
+    },
+    "petpet": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "摸",
+          "摸头"
+        ]
+      },
+      "resource": {
+        "0.png": "aa8401e6dee45a90dd17efac4797355d",
+        "2.png": "5e2896e5971f1f18410353c63c35bfc5",
+        "1.png": "97cb8b8449b8000edaa5c4380594a611",
+        "3.png": "73812f2ec03138254ffed2199d172c9b",
+        "4.png": "4cc824d2d50fadc3e7aa83b8f8c01585",
+        "data.json": "8373bf8f275d9e22cdc067a3125fe56e"
+      },
+      "size": 30779
+    },
+    "php": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0
+      },
+      "resource": {
+        "data.json": "ac29a5e224383919f46472759ce9d48d",
+        "0.png": "5f508331a4b3bc69d7f6dc32e558762a"
+      },
+      "size": 20861,
+      "dependentFonts": [
+        "Handel-Gothic.ttf"
+      ]
+    },
+    "pinch": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "透镜",
+          "收缩",
+          "捏合"
+        ],
+        "inRandomList": true
+      },
+      "resource": {
+        "data.json": "24920bae287843727e5527ff234ae869"
+      },
+      "size": 444
+    },
+    "play": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "玩",
+          "顶"
+        ]
+      },
+      "resource": {
+        "0.png": "4964c0cecc7d5536ac070356531a0f2a",
+        "1.png": "44242083d7d62c88ce1c4df5fa7e2c18",
+        "10.png": "0622967a345a44eb787cb0729430ed1f",
+        "11.png": "d07943ca2dc901e87dd1de1fb57f1522",
+        "12.png": "611d761e98d873f2e0a295273901cb9d",
+        "13.png": "91807f3f15dbd8385022a3967029520d",
+        "14.png": "873c8b4a9d05d1f6869f80ba0efaf4fa",
+        "15.png": "b553976c6c0539afeb354315428211f1",
+        "16.png": "b9eef848ee25631a033023c18f5fb711",
+        "17.png": "b0319ca25761c7b036e81e555d0d350d",
+        "18.png": "2c2d1c73ef7586f3bbaed7083f503171",
+        "19.png": "2678692ef119d151594d6e6b72a21100",
+        "20.png": "e5d12ed9217f3df2d5e8d3f50f692ade",
+        "2.png": "70194e8b049eaf52bf64137d402af5b7",
+        "21.png": "93e8b3a0197f707a0272013c296c45ad",
+        "22.png": "d1e23a1e2f3f67a68f13d514222e8288",
+        "3.png": "1f5064e766aa07cbd0bcc6014e04a363",
+        "4.png": "931b04efcc1786137c24e532f42ed847",
+        "5.png": "e1e185b4450a41b2f0b3a20e7822a87f",
+        "6.png": "53c0d86f536a10a6ad551845e9cb477a",
+        "7.png": "84855b20768e4a8baf8a904898759fa8",
+        "8.png": "12febab0de29bfc49af8f11941eef7a3",
+        "9.png": "8aaa0621bce8a04b4932d997c47bae03",
+        "data.json": "ce5d9e757d859f8d56e5da2c95eb9b48"
+      },
+      "size": 374904
+    },
+    "point_tv": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "康纳",
+          "电视"
+        ]
+      },
+      "resource": {
+        "1.png": "71da8147a9e518d88c79021e83118b2d",
+        "0.png": "15045bc15cf09049b5fe7908732731be",
+        "10.png": "a58aedbcd7c7b88b2cfbbeaa3c683ac2",
+        "11.png": "f1a34953e6e44e5ba1c16d0b848fe0f1",
+        "14.png": "a8437732d31b4312b5e295f00a45ae09",
+        "12.png": "76979acbdbb5eff4018c0efeb4d9d935",
+        "13.png": "0924df25cde79c6581c4ff7927b7be3a",
+        "2.png": "52ac24b4cfef04e79455941016fc359f",
+        "3.png": "a4b20158b372461ec4b15de4d250f49a",
+        "4.png": "4bfd9226adbe233258f0361c48d60e2a",
+        "5.png": "abe49d78f3c3ceef66c29c37ddfaa1c6",
+        "6.png": "bbb774d4b4166a3b71a632fe84984d17",
+        "7.png": "38ff44d6d41907a8caa7e432e0063455",
+        "8.png": "f491e04510fbe35d93bba1cade3d1c5a",
+        "data.json": "69a005f83b4ae14ef88dd7fc8ce28159",
+        "9.png": "a8772e8225bdfc67ac227af76feb0901"
+      },
+      "size": 612541
+    },
+    "police": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "警察"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "cf61b73607330d7af5f9e88241097ac0",
+        "0.png": "31a60a25b44407b6a01a07b3cdd3c2de"
+      },
+      "size": 180985
+    },
+    "pomni_door": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "帕姆尼",
+          "开门"
+        ]
+      },
+      "resource": {
+        "data.json": "9bc4226171d9294ca8b83ca593236068",
+        "0.png": "7e38d4d5e38909686cb8deb3f9fd75aa"
+      },
+      "size": 291141
+    },
+    "potato": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "土豆"
+        ]
+      },
+      "resource": {
+        "data.json": "ee2b5ac8552062199aa936f7e976baca",
+        "0.png": "46cc49cf59d8c234489c4493d4d2c6f2"
+      },
+      "size": 366821
+    },
+    "pound": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "捣"
+        ]
+      },
+      "resource": {
+        "0.png": "bc329e320843da1652fa8cbaebc547f6",
+        "2.png": "5196cd4b0b7add30d6ee445ef3302bdc",
+        "1.png": "1287970496b73b9b8cc581efca214167",
+        "3.png": "6de53f69220f12bd575962f98cfcbf89",
+        "4.png": "363bc7090b8a57a5eca03ce0903cd5be",
+        "5.png": "e82712a091010daf9805def5a3a87790",
+        "6.png": "2f577a122a2b94f6a9b13a2746203906",
+        "data.json": "1429427ee69646cb9871b33ff48f52f9",
+        "7.png": "bbb206934bdec99cc500ccc2cd2d801d"
+      },
+      "size": 109650
+    },
+    "pr": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "舔屏"
+        ]
+      },
+      "resource": {
+        "data.json": "7e189f0d4d14ceca76f8e04a20322fb3",
+        "0.png": "0375726f9e7c54b6993129b790e7adcc"
+      },
+      "size": 401999
+    },
+    "printing": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "打印"
+        ]
+      },
+      "resource": {
+        "1.png": "fc4c55f6a40a9df63e7d70636b149db5",
+        "0.png": "d7dead54fa1966ab8e99d434cf8f9ab8",
+        "10.png": "621dfc780ddd38a475e2a106f86e008e",
+        "11.png": "1c91ff557d0730ba3b47852cd0fea1fc",
+        "12.png": "59e74c27c7bf7fdbd6b63b9fb65c7d30",
+        "13.png": "80c3fce49c01f67d31532988acad9146",
+        "14.png": "fb30ff2f11d706385466a91df218048d",
+        "15.png": "8ddd5949b2842c24ba8659d97a779f71",
+        "16.png": "2383723b5c47a4dbc11070f9f8c1668c",
+        "17.png": "d6dafc816985bcdc766d54a301a10736",
+        "18.png": "7eb5665b8a0adec2dba0bec82775a548",
+        "19.png": "5ed650c82ec5044b0cc98618ca22d26b",
+        "2.png": "1dde409ae7f06fe20b985ee519e94482",
+        "20.png": "7fdbb61fe383e6471d2ff23f1a22256a",
+        "22.png": "0b677f4dcb177149d1aaad524161f8cb",
+        "21.png": "09ed92af60e8f34bb7e964a20435bf24",
+        "23.png": "cbff3d98216acd0b7c85a2ae69d187aa",
+        "24.png": "ad47feb65668d92202afaa39a70fda29",
+        "25.png": "ebb15835cc9ec9a1bad44ba5c163bb41",
+        "26.png": "a5451828eb5901787ef44d3ce4028b17",
+        "27.png": "8b5a677508a9ba9cce809b6a7aea73df",
+        "28.png": "7cf8c0993eaab320b12920b7afb1e8f2",
+        "3.png": "03803f5843512381fe55199f68d2aa12",
+        "4.png": "93f02334e7a955a8ce6e441a9349ab21",
+        "5.png": "2cfe44e545ceaf3b10eb7c2e3ba0cc75",
+        "6.png": "9c54f8e6565c2d528eb9317bf316b6a2",
+        "7.png": "e649d0607608d66d6783bf9391ad4b23",
+        "8.png": "0825d136ae4266c749491c02d6a8b832",
+        "9.png": "bfbfd8673a0854e647bbaa691d45fee3",
+        "data.json": "06891900a382bc1e12860efd4b3b9fa6"
+      },
+      "size": 173420
+    },
+    "punch": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "打拳"
+        ]
+      },
+      "resource": {
+        "0.png": "5c50071615149514b42f692aea9d9290",
+        "1.png": "84e6a624d4546bfcc85c5544ee252c2b",
+        "10.png": "8c6f3c2838078b5c7241fdd5316f4363",
+        "11.png": "f25db4a8ee3a9ab72d57f434aa0ca865",
+        "12.png": "85aee422feae35c368fed239a2b1b0e0",
+        "2.png": "4c8c9b99f640c78cc634ae4c34191070",
+        "4.png": "58c5395c3275558187d0c07c8e59b8b1",
+        "3.png": "412ac6464392446a77af45c6980e5228",
+        "5.png": "f6a16aaf1d0c0f7239fb12d8f10400a7",
+        "6.png": "e827982690eaa7703178649a9f7d035b",
+        "7.png": "0086c46b42a8910c475615ce6c5a98a1",
+        "8.png": "ee9f371aff7718d1ed2dce523d2f89a0",
+        "data.json": "6510aa04f8f9fc621d98d7250c4284d5",
+        "9.png": "f17f4a89f7fed4ff5360b7a566303cd1"
+      },
+      "size": 219849
+    },
+    "pyramid": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 101,
+        "alias": [
+          "四棱锥",
+          "金字塔"
+        ]
+      },
+      "resource": {
+        "build.js": "d8b77a69f9ad1d12b61024e16612fa9a",
+        "template.json": "5f1a91cf76660282dca111a09a180509"
+      },
+      "size": 9714
+    },
+    "recaptcha": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "验证",
+          "选择"
+        ]
+      },
+      "resource": {
+        "0.png": "88cd640a0eb0887f2846e6a42c5eee55",
+        "data.json": "b5df354dc3e2ff5499b3d527d7ec2c01"
+      },
+      "size": 21471
+    },
+    "record": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "唱片"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "0.png": "63252e976b3d821f982d8886bd2900c8",
+        "1.png": "63252e976b3d821f982d8886bd2900c8",
+        "3.png": "63252e976b3d821f982d8886bd2900c8",
+        "5.png": "63252e976b3d821f982d8886bd2900c8",
+        "7.png": "63252e976b3d821f982d8886bd2900c8",
+        "data.json": "59f0617a1119335edfbf4ebd23f7619d",
+        "2.png": "63252e976b3d821f982d8886bd2900c8",
+        "6.png": "63252e976b3d821f982d8886bd2900c8",
+        "4.png": "63252e976b3d821f982d8886bd2900c8"
+      },
+      "size": 426636
+    },
+    "remake": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "泥头车",
+          "创",
+          "重开"
+        ]
+      },
+      "resource": {
+        "0.png": "a4e5396983c3699d7a99e68cfeaf18df",
+        "1.png": "aeb9d88a76293d59e618d491854c72fe",
+        "10.png": "238bbcadb88676671d837f5d741949c9",
+        "11.png": "8a7c1b2b9c3537ab5ca0ce6972354079",
+        "13.png": "e48b9ebe1a5be34a4b61be7d75a7a274",
+        "12.png": "d314f16eac0d4590dd7c9b4e9fa7e3c4",
+        "16.png": "2069f5efdcfd5c7749f4a9606b32c92b",
+        "14.png": "bbe34887f1debd02a6b80340ea7766e7",
+        "17.png": "2fc10f9754e10d69b9f5af8700b0c33f",
+        "15.png": "62c938bb782a88f802f0aff68250ab05",
+        "18.png": "a697a94556736ceb342294f7fd379e5f",
+        "19.png": "d4d3dddccd221b37711452248541e20a",
+        "2.png": "77c802c3839f28d93c34ddfcccd07466",
+        "20.png": "ef407edb9703ae8b7e02d466f9e8dec8",
+        "21.png": "fe5f581a0ddf1b1c4150a9795df6400c",
+        "22.png": "64e9bac2fb553a1fa425a019eee4fa36",
+        "24.png": "f8765e1e05fa94753cb368acbb54f39d",
+        "23.png": "3fba1d810eba8134e722303fb177d6b6",
+        "27.png": "ef0dec716bdb8d6db7c358581c801a62",
+        "26.png": "5e56a611120f0447088f5ba05f0de5fa",
+        "28.png": "faac7eb9e688c798f06854c9554109bb",
+        "29.png": "21a72e6a3cc2726cc93785436b1123b4",
+        "25.png": "fc742884a893838496e27f3c09925028",
+        "3.png": "5618fc1f7e720798ec7a79e9c1a0a48f",
+        "31.png": "f0f9ac69ba26071c5fe06b6fd6e62c73",
+        "33.png": "cb0fa3fea601953687bead2b8017d943",
+        "30.png": "1c06b5f68d19bab28311cf8d11bd8307",
+        "32.png": "6c9f769301df570221abd5b987c4acb6",
+        "34.png": "272bbad3e1899703a393a2c994b4d7a8",
+        "35.png": "8292cdcb043055422dc19f3f6f687af0",
+        "36.png": "78bf3033517a8a6bec042124e337a219",
+        "37.png": "fa5628d185e71d770dee4f471a6548b8",
+        "38.png": "f8dbf1c2d9952448db6a69fc75254b0c",
+        "4.png": "b30496a2885d13ad3c7838948365ed57",
+        "5.png": "4dc84e8771357cbd7b88f6b6627516e7",
+        "6.png": "ee5b2bf6fe2afe14eee68b92ea2b483a",
+        "7.png": "35bddec622ba203a31202a38db3c9777",
+        "8.png": "e45d1a8f77b0edb2b42a3f403c91402f",
+        "data.json": "97f9b78f0fbb6dad0318366cf33c2516",
+        "9.png": "89a384b2e06d9563261489b693967416"
+      },
+      "size": 1635191
+    },
+    "reverse": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "倒放"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "ea3fae9d040d6b3d9e1f01d718e9bafb"
+      },
+      "size": 320
+    },
+    "reward": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "伊蕾娜",
+          "赏金",
+          "报酬"
+        ]
+      },
+      "resource": {
+        "10.png": "546e2b43dfc182fb808df5f0dd96a8b7",
+        "data.json": "9c85b083d45a994bab38c21237c8a641",
+        "1.png": "5c8bd17960e5b427a94d5e8b74f49c34",
+        "0.png": "306ab6f68451f295d622277e8dd41bd2",
+        "11.png": "5dc6f7140ae60ddc2fb438d1cb9b421b",
+        "12.png": "ca5ff5edbe3725fd458021c864725afa",
+        "13.png": "305e3c1e9bf14086506820651c28fe04",
+        "14.png": "bba0668b759e267538b879a4d3ff1fe9",
+        "16.png": "f62e3bb2a73aa3de6035399f0d4e8b48",
+        "17.png": "8d7fbb5cd4fbc6e35f014c2811a8bf1e",
+        "15.png": "20c856c5d19a74571b016b8fd2e91ceb",
+        "18.png": "0de8eb9cebbaf442f425151f0e9df43d",
+        "19.png": "61c13f59ae7a9fae7d8e7ad61332b93b",
+        "2.png": "9b9f3207719715ccbb23b06b512dc533",
+        "20.png": "57b4fdce0f07eb150198f70da331b9d6",
+        "21.png": "ac93bb7d9f4721fae6534f3c625ae08e",
+        "22.png": "56f4bafd5cfe5bbf867629b4cd8ced67",
+        "3.png": "bd42122be4e4fa394efa2559bac07374",
+        "5.png": "d0141cf343e9d511e34c68d18ca87e73",
+        "4.png": "1179dd458bc21cb30516b7a5ad5e4b9f",
+        "6.png": "b8ee04d0b3ec1b74d0d26c8a6d0bafde",
+        "7.png": "daa75add6445d9e513985093bce59d7a",
+        "8.png": "aba1ca9bb7e2d676708bd784f16e3f6e",
+        "9.png": "12b8c572dfbea5b041ad7e393d5478a1"
+      },
+      "size": 1768725
+    },
+    "rgb": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "变色"
+        ]
+      },
+      "resource": {
+        "data.json": "2b3f98a1ffe7e9a614b6b7f3ab6f3c36"
+      },
+      "size": 329
+    },
+    "right_down_symmetry": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "中心对称",
+          "右下对称"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "0a3a2cdb5227579ca9f3f9d2127a894f"
+      },
+      "size": 920
+    },
+    "right_symmetry": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "对称",
+          "右对称",
+          "左右对称"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "fbb47346cdb8375549b1770bb72fd825"
+      },
+      "size": 543
+    },
+    "right_up_symmetry": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "中心对称",
+          "右上对称"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "8edae29ea170860de10933bbc660a6db"
+      },
+      "size": 910
+    },
+    "rise_dead": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "诈尸",
+          "秽土转生"
+        ]
+      },
+      "resource": {
+        "0.png": "e8b748742ee56560f209e801500423b7",
+        "1.png": "cc27aafb9a878fc916042249ec41c72a",
+        "10.png": "1aeccfa4b6318d4a17d4c32c1ccd5d4e",
+        "11.png": "ffd170003374cc0974825dcf4e1920fb",
+        "13.png": "f872bf9e47c41a6fc5e7b64644f14922",
+        "12.png": "4651b67a5f835d6c046de6fdde659c9d",
+        "14.png": "7c4e702e3b243e235e3cb3b24877153f",
+        "15.png": "1d13de9ea039fdb7a8ce64bd573c875f",
+        "16.png": "81f675903ab77066a51f51f35adfaded",
+        "2.png": "b813c959304f55ae68aa75b97bdd6154",
+        "3.png": "fbdd3fb9576997bf8ddf64d7dc454eda",
+        "4.png": "4c5a00f79bc14ae283758118d7516944",
+        "5.png": "1ffaff12ac356fff7de4dfc848cbc6b4",
+        "6.png": "ab685cb542f4286b48da8d96361deb93",
+        "7.png": "fa7a0c613f003d711614aa23a231f838",
+        "8.png": "493a44148b76590aacd5ee69ccbbad04",
+        "9.png": "49a438ba2854f280dde76026685b10de",
+        "data.json": "4095eaa8e50519e94a0257993855e0b7"
+      },
+      "size": 160298
+    },
+    "roll": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "滚",
+          "推"
+        ]
+      },
+      "resource": {
+        "1.png": "19aa54e138172a2ddf7f031da195ebf1",
+        "0.png": "4b7bd23b3f9d4c2ab7d36885a6edf21a",
+        "2.png": "fa009d3c3dc2645600b3b8ba2200c240",
+        "3.png": "72ddb67a4589290b6cc7c2591c163401",
+        "4.png": "3d0292a3e7bfc90e32aa320f85d906e0",
+        "5.png": "5767ba5025f85dc60b65c1e448f4c243",
+        "6.png": "b1babecdb8a977ba477c033b9d929b73",
+        "data.json": "ef1e73c23e1711c6d1c50ff415f798ef",
+        "7.png": "c0475533dc1e6282dfa50e7ee5f6d150"
+      },
+      "size": 319715
+    },
+    "rub": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "舔",
+          "prpr"
+        ]
+      },
+      "resource": {
+        "0.png": "6e9be80720de4f9fa06653e359831e3c",
+        "1.png": "e940b183c5e5f9a53f54fca88cbfad16",
+        "2.png": "06eb3c8e1cf1bac2a201accc972ac287",
+        "3.png": "46a87bb35695b28c325074b254d52a03",
+        "data.json": "ff10fff11bb4d2266b29a258749b8d3b",
+        "5.png": "0668ccd4858ca78332e102dbe72aeb4e",
+        "4.png": "72da6b870db4f9776b5226883a5a11cf"
+      },
+      "size": 35100
+    },
+    "sad_news": {
+      "type": "template",
+      "metadata": {
+        "alias": [
+          "悲报"
+        ],
+        "tags": [
+          "text-only"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "6c67632cc72c4a9179366fdc3eeff9d8",
+        "template.json": "e815f1c7274bf67d420829acdc0f3a71",
+        "0.png": "a13bedd10b1644162078d3818fd00a1d"
+      },
+      "size": 819853,
+      "dependentFonts": [
+        "MiSans-Bold.ttf"
+      ]
+    },
+    "safe_sense": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "安全感"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "56d7b8e6fb8e2ac73e6dedb990463526",
+        "0.png": "83653a8efa58498ae0ff8ea806e523ad"
+      },
+      "size": 79316
+    },
+    "scratch_head": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "挠头"
+        ]
+      },
+      "resource": {
+        "0.png": "a72596f3beff01eaa56d20458175cf7b",
+        "2.png": "53293a097661db4412b2cd4fd4d50b49",
+        "1.png": "7e2ffe8187564dd18cdbd7826c4cc264",
+        "4.png": "4dc269cf571fe1ed75082ccb90acb5d5",
+        "3.png": "473644e2d0a98e9e4c6149485c7f57c1",
+        "5.png": "477528b65f0672b6c98a285455c727c3",
+        "data.json": "4429792e73c6f35173549bc39ca896bd"
+      },
+      "size": 25496
+    },
+    "screen": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "屏幕"
+        ]
+      },
+      "resource": {
+        "data.json": "22e6f9ffaff593569a5b63d406cb74e7",
+        "0.png": "aa9ba6ed9b53feb9b655a2db774fa0cf"
+      },
+      "size": 300449
+    },
+    "sell": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "卖",
+          "人气"
+        ]
+      },
+      "resource": {
+        "data.json": "eaa0c1a24ef55a0ecc057ab11ab7d727",
+        "0.png": "6c5a59dff53b6adb1b0ae8527167907c"
+      },
+      "size": 108669
+    },
+    "show_case": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "展示"
+        ]
+      },
+      "resource": {
+        "data.json": "fa151d2320d557fc8bd2b12276d7427b",
+        "0.png": "d1b335da51f28ecffb4463315ac476bd"
+      },
+      "size": 1657694
+    },
+    "smash": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "砸",
+          "打碎"
+        ]
+      },
+      "resource": {
+        "data.json": "a9f3f134fa0bfe4a3e166e0465be48e6",
+        "0.png": "f14a1ff64015a1cd5cf752e80e5cf367"
+      },
+      "size": 236632
+    },
+    "stew": {
+      "type": "template",
+      "metadata": {
+        "alias": [
+          "炖",
+          "出气"
+        ]
+      },
+      "resource": {
+        "0.png": "7c4a16eda8b772b6b544060169dd3525",
+        "data.json": "1c429073cc09db28722edd4c5f9f6e30",
+        "main.png": "13d68d414298b2df8da6f32fbcf08b23",
+        "template.json": "df4757250878e9d804e1f98a9d179997"
+      },
+      "size": 16701
+    },
+    "suck": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "吸"
+        ]
+      },
+      "resource": {
+        "0.png": "848d6fe194940dc2fef9db9a354fb126",
+        "1.png": "74739c77b17df646533133ab49174379",
+        "10.png": "76688f982ae2e1c7e878ba185fcddd7d",
+        "2.png": "a13a413108cc0e319449d549df0533f2",
+        "11.png": "d1723c022b984588853956ad454c0eba",
+        "4.png": "e51457c880f8bac176d7adcce7c2374f",
+        "5.png": "1d7a90731644d866ca75975da0b9b074",
+        "3.png": "5663af4b29aed543cbab978154d46a6c",
+        "7.png": "138eb577148a6e2ffa7e9b21de644395",
+        "9.png": "35d5c2a770ca62666d054f7de229c01b",
+        "6.png": "95f8124f3135e813c1273b6261a49855",
+        "8.png": "e58d096d494249b94565a122b6bfc1e6",
+        "data.json": "02733ef3aa11daf9b28a898e0fbd6622"
+      },
+      "size": 203901
+    },
+    "support": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "精神支柱"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "1f0ea46006dbd1ec229074b8fad48197",
+        "0.png": "5659b8fb6d8f1ee1f72cfc0fb3d4ef07"
+      },
+      "size": 103530
+    },
+    "sweat": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "流汗"
+        ]
+      },
+      "resource": {
+        "data.json": "08e5788515562dadeda571dd6d64726b",
+        "0.png": "8031bc29c86d4662748aee495f96d294"
+      },
+      "size": 125761
+    },
+    "swim": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "潜水",
+          "游泳",
+          "水下"
+        ]
+      },
+      "resource": {
+        "data.json": "797b16d7dd5f289bdc5a7935aac4159b"
+      },
+      "size": 459
+    },
+    "swirl": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "扭曲"
+        ],
+        "inRandomList": true
+      },
+      "resource": {
+        "data.json": "04794f0241d2fdf44ff06fc8c88d48a6"
+      },
+      "size": 419
+    },
+    "symmetry": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "对称",
+          "左对称",
+          "左右对称"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "c73eb12b074c96869bda051a3dfcc0da"
+      },
+      "size": 538
+    },
+    "talisman": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "符咒"
+        ]
+      },
+      "resource": {
+        "data.json": "aaa57df7f542bca62a1bb76f9545ec84",
+        "0.png": "6184431854c2a7ca4b49f7f47b52d01a"
+      },
+      "size": 195384
+    },
+    "teach": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "讲课",
+          "敲黑板"
+        ],
+        "inRandomList": true
+      },
+      "resource": {
+        "data.json": "23a6899944655dc3afe9a18af7df6622",
+        "0.png": "2565a13ebd999b5f5a77e9b48dba7f0b"
+      },
+      "size": 272486
+    },
+    "teapot": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "泡茶"
+        ]
+      },
+      "resource": {
+        "data.json": "1893e49d44074d5c83c7198d559b91ac",
+        "0.png": "bf626cfba76128d6da56d183d8d08251"
+      },
+      "size": 254627
+    },
+    "tear": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "撕"
+        ]
+      },
+      "resource": {
+        "data.json": "a6bf8d91ef61fb6b9ab82570b5e1e521",
+        "0.png": "e7c24ea5bad5246f51040fb31f2b9c4e"
+      },
+      "size": 117745
+    },
+    "thinkwhat": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "想"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "789627a33b245b1b608e4fd76236c96a",
+        "0.png": "550c3e7829033511873a12d0a8e25447"
+      },
+      "size": 597205
+    },
+    "throw": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "扔"
+        ]
+      },
+      "resource": {
+        "0.png": "b4618f02331019ac9df4a054b40f10fe",
+        "1.png": "55557fcbf211b9d5712e6630491c6d35",
+        "2.png": "69bb214ce6aa5685e474e7b99ff13dc1",
+        "3.png": "0304610b58c8d44fd8762033276e2dd2",
+        "5.png": "4fc91c30a60791ac57fbaa8f21453393",
+        "6.png": "19d7badcf3c6b69c088a7a3a4e9a0f49",
+        "7.png": "2cdd6c193b36d5e12e11f05a5cdbb4be",
+        "4.png": "9c3f67c8d78700a7efbaa83541f92fe6",
+        "data.json": "fc0f331781a0d800586a9bcb54736354"
+      },
+      "size": 189962
+    },
+    "thump": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "锤"
+        ]
+      },
+      "resource": {
+        "1.png": "4fb3e391510555e146d506705ea0f242",
+        "0.png": "a3db460ecbc8ed4d14bb900d535bf6a5",
+        "3.png": "4e9ef84cdbd3833171f74727ae007aa3",
+        "2.png": "f004a475c1cd77b1c3852b3df5027f0f",
+        "data.json": "23ddd2cf4f33c5a1159ca76207077460"
+      },
+      "size": 84640
+    },
+    "tightly": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "黏"
+        ]
+      },
+      "resource": {
+        "10.png": "c3be7c205aca24c400e83a98a007a4b1",
+        "11.png": "cd36590de435081542abc4f8b5e03ed7",
+        "12.png": "dd3dc95f856c43fa3dcad347d7942506",
+        "14.png": "d5f7e6eafabe6c1a17b1f985b154ff08",
+        "15.png": "85075732dbd183a02b93b7b4eb8c2592",
+        "13.png": "5a57c97e80873ac64a2db11e71d0331c",
+        "17.png": "43ec85f7f7fc18485acdb329a7b9c173",
+        "16.png": "8ad15d7c72142b9b3f81146ced8196c8",
+        "19.png": "7e562d467024416aea69a05e3214cc0e",
+        "18.png": "ba7ac479234cfada00bebe34d96ae8b4",
+        "data.json": "d29d9174bc320284e3b6989cc017b1b5",
+        "9.png": "23e00f03f6a6a883f2550b91646e9fd7",
+        "0.png": "a75986b79eb610e85c68d27a68e121ce",
+        "1.png": "ffc5cd12eff13d205b5873810939d071",
+        "2.png": "91ab512732c81e4f1ee8a1ed85834523",
+        "3.png": "991e06589dd243c45560f4259627c673",
+        "4.png": "170d0a57327cb7dc19a44d6dd801a292",
+        "5.png": "021d95cebbf539d14d258253d10e9370",
+        "6.png": "7f7cb2d5f554dbc3df70128e53653c1f",
+        "7.png": "68683eaeb8e1a2d4aa81f6b627738d09",
+        "8.png": "dc63be99d968fe0007527d8fc4dcfcf1"
+      },
+      "size": 1163517
+    },
+    "tom_door": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "汤姆",
+          "开门"
+        ]
+      },
+      "resource": {
+        "data.json": "904199975e584d02954dfb3a1856833a",
+        "1.png": "b4ce41730dc6b6b817ad27a52d36a2a6",
+        "0.png": "d718ee7d20c2eef534410a81047bce87",
+        "10.png": "5221f30d3b432e6416a6a6e667788536",
+        "11.png": "1ec217ccf09f9a02a53e6e2171ebb444",
+        "12.png": "b39a9605486398ef96f29c0b0c34409f",
+        "13.png": "9305940e9defaaa84b3781f82a4c1bd1",
+        "15.png": "e2333dc7c708468498e49d1291dbabd0",
+        "14.png": "40fe293c06e964bb1d662be39381a21a",
+        "16.png": "ef1c1faaae2967a576e4cb26646d5499",
+        "18.png": "ca96d0f847ded2a0413457736f210e47",
+        "17.png": "054e5966e1305312098234f400eb2f93",
+        "2.png": "54cb2bc70b516a8dc1c0ba3c119823ba",
+        "19.png": "344ec14d445af9a9b0a3305b2293c014",
+        "20.png": "bea9559fca6058d4a562c77555181e57",
+        "22.png": "bea9559fca6058d4a562c77555181e57",
+        "23.png": "bea9559fca6058d4a562c77555181e57",
+        "21.png": "bea9559fca6058d4a562c77555181e57",
+        "4.png": "2d152ae29f3540d2bf815d263cf4109f",
+        "3.png": "bec7ef26856f9b4d07e5195bf234bdf0",
+        "5.png": "79ef8650da4e96fa025e9d61882eaad9",
+        "6.png": "08719726d30dd14a9f9b41e49e69a134",
+        "7.png": "da84bdbb6d0e599700bae56daa8e0697",
+        "8.png": "9d96195275f8e8ef6c939ffa5df7cd33",
+        "9.png": "61a1a623b0b26d67af70de67ef7b46fb"
+      },
+      "size": 2968555
+    },
+    "turtle": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "乌龟",
+          "🐢"
+        ]
+      },
+      "resource": {
+        "0.png": "9513857c0313114c605c882da1b9dcb6",
+        "1.png": "5533c4d5de86990c29393b0181c50353",
+        "10.png": "70efdae92555874ec26738e121c582d1",
+        "12.png": "9dc5f35d1004c9b08df0d141c01439ac",
+        "13.png": "9cc8eb1c7ed7ba49cf6d7606989a1fe5",
+        "11.png": "f5b31965914cdc9736dbb3f110b834b0",
+        "2.png": "2e4caccf1cc1bb52ed79dbe255719bf0",
+        "3.png": "16a45da00af34296343cfb920e29d937",
+        "4.png": "71ce8ede07831b14be0a26d80ec2002f",
+        "6.png": "ce8a896bb01f37c610f1de2f2362b4aa",
+        "5.png": "c3de3067f84ca217c3c6d72d9d5dbf12",
+        "7.png": "ec4cdee107c068559384ffce2a53c2b8",
+        "8.png": "a9ae926a3a43f3c13864af444cb094e1",
+        "9.png": "c7b5390f3959453094c24d84deef3b12",
+        "data.json": "6edfb2fe6267c97fc9e032df8a0b4206"
+      },
+      "size": 130707
+    },
+    "twist": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "抱"
+        ]
+      },
+      "resource": {
+        "1.png": "380855eda516a3be0401a5dee662378e",
+        "0.png": "f0b59e60d234e2b145e453f1f3ccac5b",
+        "2.png": "07b9cf8a73ed851f4965522143c74a8b",
+        "3.png": "f15b4a115675e62d213d25f6bc7237e8",
+        "4.png": "946914bdada2b87e06172331e288db83",
+        "data.json": "8e14e3e3b7db70304a19e64ba76c1cf1"
+      },
+      "size": 142651
+    },
+    "up_symmetry": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "对称",
+          "上对称",
+          "上下对称"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "data.json": "cb6f07890ed60e3a889923464ae2b38c"
+      },
+      "size": 537
+    },
+    "us_election": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "大选",
+          "总统"
+        ]
+      },
+      "resource": {
+        "data.json": "9500c37d92443663fdaefedc08fe4927",
+        "0.png": "b33c08eafb39477e9ea38d2d163866d9"
+      },
+      "size": 100227
+    },
+    "wallpaper": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "瑞克",
+          "壁纸"
+        ]
+      },
+      "resource": {
+        "0.png": "021857cdf9da61c082b44fe3c8007141",
+        "1.png": "6194bd1f877fa1688989d5259346dfa6",
+        "11.png": "3bd846854808543f65bfd1d3580c4139",
+        "10.png": "c288c503a12cab9c39091069a26bcd4a",
+        "12.png": "6fa9ea037c6a8785bde14abc419c6488",
+        "13.png": "b4eb969eccb10eed3fca88ecadbe0955",
+        "15.png": "1bcd15438124f0d69c5f9c5370dd998c",
+        "14.png": "51e238a783fd09a3ca35ce3064e35ba0",
+        "16.png": "2a824070b38f1a1d797cb3605cc46eea",
+        "18.png": "84ede165d9ff52f3359af68ee18f9fa3",
+        "17.png": "a5e53f08ecac8cf1ff6d1cbba52b8d4e",
+        "4.png": "7a40b7575dd0a44f706cf8db8ae930cb",
+        "19.png": "df6431e84b121546d915f9bf82db97ff",
+        "3.png": "4ce310e39e9ff8b25b5c16b4d7397694",
+        "2.png": "d7fcd678b73541083cec7e3567982251",
+        "6.png": "a48a8d743c252e027d714f7d58106c9d",
+        "7.png": "2de21663772f41d560659b03a9fa2e61",
+        "8.png": "1057eb7c22e0cf0f338fa106381237e4",
+        "5.png": "98c60b3dbc002001639d248b83340c20",
+        "9.png": "b1f12532b7bb00c1f1c551d8f2d007be",
+        "data.json": "35a9ed051be14ce597ddada95358517f"
+      },
+      "size": 1072972
+    },
+    "walnutpad": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "胡桃平板",
+          "平板"
+        ],
+        "inRandomList": true
+      },
+      "resource": {
+        "data.json": "17167c7705f7cae1305ece82163288f3",
+        "0.png": "1868d25967cc950d811b0218d313b42e"
+      },
+      "size": 372719
+    },
+    "watch_tv": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "汤姆",
+          "电视"
+        ]
+      },
+      "resource": {
+        "0.png": "021443bde90f965fcd2c8a5ecb065c37",
+        "1.png": "f62a9a7f43a47de88a92be354d9578ba",
+        "10.png": "1116e8fddc1b9b2c61e8567e9b9a3b24",
+        "11.png": "e70edd576adf7c18d5fc7a3416eb488e",
+        "12.png": "0bf38e8e11c948aae9bb265c09686907",
+        "13.png": "114e8bd6f4eb7141fd1b322442264075",
+        "14.png": "d29fce04626169c6288100ebdedaee72",
+        "15.png": "c3735aafc0bf0769b2f6c05e09255592",
+        "16.png": "5b4fe3c483dc07e767fa6db629d1934d",
+        "17.png": "31cbcf18ca9a5089ae0683256953f1a0",
+        "18.png": "0e747f51f9aa49486de3523862da5750",
+        "19.png": "5946307308e510c7a8b2a8831adedd61",
+        "2.png": "8a9a910e41fd1057fbbcf0b3c45aa0fb",
+        "20.png": "429ceef8e26a68805d1b8c70c16ebb13",
+        "21.png": "ab016fc49e6787d4b136186a036ffb90",
+        "3.png": "e1ed458e4e2967a8d8fcd34c32a09b25",
+        "4.png": "bac65959159aec8a5ec80abc1d614212",
+        "5.png": "237e3f0d10b51c5e5847632b9d6c6d58",
+        "6.png": "0b7f3ab22425c134ef6cba2571eca701",
+        "7.png": "159223be854b0ec0d91f2041b4f81af0",
+        "8.png": "b5144724421482e1e6e62fdd03c3b171",
+        "9.png": "80ed20fa73dd4e6a3103eab20fd62c60",
+        "data.json": "a519970b2079c85352654e394c281386"
+      },
+      "size": 671800
+    },
+    "wife": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "老婆"
+        ]
+      },
+      "resource": {
+        "data.json": "c99e5b89266bf2ac47a520bc319be12e",
+        "0.png": "d3776af0f6776a94738a8b95f0e288cc"
+      },
+      "size": 220701
+    },
+    "worship": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "膜拜"
+        ]
+      },
+      "resource": {
+        "0.png": "bd2f7121444b63365141cb292da532d5",
+        "1.png": "6145ed9f4c81b253d53fdedab1a63886",
+        "2.png": "c5e679727b7a5d5ca5a5f32bfba08f87",
+        "3.png": "56174982455efd6b7e7d41711cb72d0c",
+        "4.png": "661d4a2397fdf2f07d9ef4a48c825ed1",
+        "5.png": "6eeff86edfbe977e92ee1027ec68b011",
+        "6.png": "91ccfb9ae60b673e765a5e616c032a77",
+        "7.png": "e298d69f5c3eade7b741d6ec260f7a15",
+        "8.png": "9053063bc46e88f0a33c642037dafc39",
+        "9.png": "3861aae5494bd34ce6937d6224c48915",
+        "data.json": "cd850ca8e99d7badc7aa1ed096f7f5a1"
+      },
+      "size": 446306
+    },
+    "yoasobi": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "群青"
+        ],
+        "inRandomList": false
+      },
+      "resource": {
+        "0.png": "ed26a493a7f3f88e3b93944112e07fec",
+        "data.json": "c5d226b640218a708a6f6b2c49447a58"
+      },
+      "size": 3937
+    },
+    "zun_point": {
+      "type": "template",
+      "metadata": {
+        "apiVersion": 0,
+        "alias": [
+          "ZUN",
+          "指",
+          "合影"
+        ]
+      },
+      "resource": {
+        "data.json": "f9d2055a51d6b3d85f83694fc374b173",
+        "0.png": "fe5211c14e5cc3dc874ddf25956c9922"
+      },
+      "size": 633816
+    }
+  },
+  "fontsPath": "./templates/fonts",
+  "fonts": {
+    "Handel-Gothic.ttf": {
+      "md5": "a97dc52b4b2059e5f04907cb7492af0b",
+      "size": 22620,
+      "name": [
+        "handel gothic",
+        "handelgothic",
+        "regular"
+      ]
+    },
+    "Aller-Bold.ttf": {
+      "md5": "66d9368564ca91a2a2f92d3c914d8ceb",
+      "size": 92992,
+      "name": [
+        "aller",
+        "aller bold",
+        "aller-bold",
+        "bold"
+      ]
+    },
+    "MiSans-Bold.ttf": {
+      "md5": "68bd2e3ab5cb8c8dbb53b45667a7c909",
+      "size": 7804780,
+      "name": [
+        "misans",
+        "misans bold",
+        "misans-bold",
+        "bold"
+      ]
+    }
+  }
+}
