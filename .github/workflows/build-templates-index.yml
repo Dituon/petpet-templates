@@ -25,7 +25,7 @@ jobs:
     - run: npm install
 
     - name: Run build index script
-      run: node tools/index-builder.cjs
+      run: cd tools/index-builder; npm i; npm start
 
     - uses: EndBug/add-and-commit@v9
       with:

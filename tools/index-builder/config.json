@@ -1,0 +1,7 @@
+{
+    "basePath": "../../",
+    "path": "./templates",
+    "fontsPath": "./templates/fonts",
+    "oldTargetVersion": 6.2,
+    "targetVersion": "1.0.0-beta3"
+}
