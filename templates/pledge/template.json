@@ -15,7 +15,7 @@
     },
     {
       "type": "text",
-      "text": "誓死效忠${0:-${to:-ta}}!",
+      "text": "誓死效忠${0:-${to:-ta}}",
       "coords": [417, 71, 666],
       "align": "center",
       "baseline": "middle",
