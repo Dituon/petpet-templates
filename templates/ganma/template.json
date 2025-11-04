@@ -17,16 +17,16 @@
         "id": "left",
         "key": "to",
         "fit": "contain",
-        "coords": [81, 950, "35vh", "35vh"],
-        "position": "0 -35vh"
+        "coords": [81, 570, "35vh", "35vh"],
+         "position": "left bottom"
       },
       {
         "type": "image",
         "id": "right",
         "key": "from",
         "fit": "contain",
-        "coords": [914, 950, "35vh", "35vh"],
-        "position": "-35vh -35vh"
+        "coords": [534, 570, "35vh", "35vh"],
+        "position": "right bottom"
       },
       {
         "type": "image",
