@@ -18,7 +18,7 @@
         "key": "to",
         "fit": "contain",
         "coords": [81, 950, "35vh", "35vh"],
-        "position": "0 -380px"
+        "position": "0 -35vh"
       },
       {
         "type": "image",
@@ -26,7 +26,7 @@
         "key": "from",
         "fit": "contain",
         "coords": [914, 950, "35vh", "35vh"],
-        "position": "-380px -380px"
+        "position": "-35vh -35vh"
       },
       {
         "type": "image",
@@ -35,6 +35,7 @@
         "fit": "cover",
         "coords": [0, 831,"100cw","100ch"]
       }
+
     ],
     "canvas": {
       "width": "960px",
