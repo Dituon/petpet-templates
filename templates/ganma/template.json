@@ -15,7 +15,7 @@
       {
         "type": "image",
         "id": "left",
-        "key": "to",
+        "key": "from",
         "fit": "contain",
         "coords": [81, 570, "35vh", "35vh"],
          "position": "left bottom"
@@ -23,7 +23,7 @@
       {
         "type": "image",
         "id": "right",
-        "key": "from",
+        "key": "to",
         "fit": "contain",
         "coords": [534, 570, "35vh", "35vh"],
         "position": "right bottom"
