@@ -1,9 +1,8 @@
 {
   "type": "image",
   "metadata": {
-    "alias": ["誓死效忠", "pledge"],
+    "alias": ["誓死效忠"],
     "preview": "./0.png",
-    "desc": "...",
     "inRandomList": true,
     "template_version": 0
   },

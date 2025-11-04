@@ -1,0 +1,43 @@
+{
+    "type": "image",
+    "metadata": {
+      "alias": ["干嘛"],
+      "preview": "./0.png",
+      "inRandomList": true,
+      "template_version": 0
+    },
+    "elements": [
+      {
+        "type": "image",
+        "src": "./0.png",
+        "coords": [0, 0, 960, 1088]
+      },
+      {
+        "type": "image",
+        "id": "left",
+        "key": "to",
+        "fit": "contain",
+        "coords": [81, 950, "35vh", "35vh"],
+        "position": "0 -380px"
+      },
+      {
+        "type": "image",
+        "id": "right",
+        "key": "from",
+        "fit": "contain",
+        "coords": [914, 950, "35vh", "35vh"],
+        "position": "-380px -380px"
+      },
+      {
+        "type": "image",
+        "id": "hand",
+        "src": "./1.png",
+        "fit": "cover",
+        "coords": [0, 831,"100cw","100ch"]
+      }
+    ],
+    "canvas": {
+      "width": "960px",
+      "height": "1088px"
+    }
+  }
