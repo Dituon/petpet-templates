@@ -1,0 +1,20 @@
+{
+  "type": "IMG",
+  "avatar": [
+    {
+      "type": "TO",
+      "pos": [
+        [
+          8,
+          -4,
+          975,
+          1309
+        ]
+      ],
+      "fit": "COVER",
+      "avatarOnTop": false,
+      "filter": []
+    }
+  ],
+  "text": []
+}
