@@ -74,6 +74,7 @@
     "nano": 8,
     "need": 1,
     "no_response": 1,
+    "nvda": 1,
     "oil": 0,
     "osu": 1,
     "painter": 1,
@@ -408,6 +409,11 @@
     "no_response": [
       "无响应"
     ],
+    "nvda": [
+      "英伟达",
+      "继承者",
+      "nvidia"
+    ],
     "oil": [
       "油画"
     ],
@@ -708,6 +714,7 @@
     "nano": "GIF",
     "need": "IMG",
     "no_response": "IMG",
+    "nvda": "IMG",
     "oil": "IMG",
     "osu": "IMG",
     "painter": "IMG",
